@@ -1,0 +1,39 @@
+FROM continuumio/miniconda3:4.9.2
+#FROM gpuci/miniconda-cuda:11.2-runtime-ubuntu20.04
+
+RUN apt-get update && apt-get install -y python3 python3-dev python3-pip python3-setuptools
+
+RUN apt-get update && apt-get install -y build-essential
+RUN apt-get update && apt-get install -y git postgresql-client-common postgresql-client libpq-dev
+RUN apt-get update && apt-get install -y poppler-utils
+
+
+ARG USER_ID
+RUN adduser --uid ${USER_ID:-1000} --disabled-password funder
+
+RUN chown -R funder:funder /opt/conda/
+
+USER funder
+
+RUN ["mkdir", "-p", "/home/funder/python"]
+WORKDIR /home/funder/python
+
+RUN conda update -n base -c defaults conda
+RUN conda update --update-all -y
+COPY --chown=funder:funder python/environment.yml ./
+RUN conda env create -f environment.yml
+SHELL ["conda", "run", "-n", "funder-ner", "/bin/bash", "-c"]
+RUN python -m spacy download en_core_web_sm
+
+RUN ["mkdir", "-p", "/home/funder/python/textdocuments"]
+RUN ["mkdir", "-p", "/home/funder/python/results"]
+RUN ["mkdir", "-p", "/home/funder/python/run"]
+WORKDIR /home/funder/python/run
+
+VOLUME ["/home/funder/python/textdocuments"]
+VOLUME ["/home/funder/python/results"]
+VOLUME ["/home/funder/python/run"]
+VOLUME ["/home/funder/.cache"]
+
+#CMD ["conda", "run", "-n", "myenv", "/bin/bash", "-c"]
+CMD ["conda", "run", "--no-capture-output", "-n", "funder-ner", "python", "--version"]

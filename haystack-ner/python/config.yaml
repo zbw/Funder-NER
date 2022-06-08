@@ -1,0 +1,18 @@
+doc_dir_answers: /home/funder/python/results/answers
+doc_dir_csv: /home/funder/python/results/answers_csv
+doc_dir_answers_dpr: /home/funder/python/results/answers_dpr
+doc_dir_csv_dpr: /home/funder/python/results/answers_dpr_csv
+doc_dir_json: /home/funder/python/textdocuments/json
+doc_dir_pdf: /home/funder/python/textdocuments/pdf
+doc_dir_txt: /home/funder/python/textdocuments/text
+elastic:
+  host: elastic
+  index: documentbm25
+  password: ''
+  port: 9200
+  username: ''
+  dprindex: document
+test_csv_file: "./EconStor-PDFs_Funder-Info-checked_short.csv"
+funder_csv_file: "./complete_funder_list.csv"
+logging_level: INFO
+use_gpu: true

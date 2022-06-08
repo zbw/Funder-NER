@@ -1,0 +1,2956 @@
+{
+  "expressions": [
+    {
+      "text": "ments This work is supported by grants from the National Science Fund for Distinguished Young Scholars (NSFC No. 71025005), the National Natural Scien",
+      "intent": "funder"
+    },
+    {
+      "text": "rofessionnel Acknowledgments The authors greatfully acknowledge the Risk Foundation (Health, Risk and Insurance Chair, Allianz) for financial support ",
+      "intent": "funder"
+    },
+    {
+      "text": "Department of Industrial Engineering, Tshwane University of Technology (TUT), South African National Research Foundation (NRF) and Manufacturing, Engineering and Related Services Sector Education and Training Authority (MERSETA)",
+      "intent": "funder"
+    },
+    {
+      "text": "R-square in lag 4 = 0.992048. Funding This work was supported by the Key Plan of National Social Science Foundation of China under the Grant 14ZDA044.",
+      "intent": "funder"
+    },
+    {
+      "text": "A). The publication of this article was funded by the Open Access fund of the Leibniz Association. The funders had no role in study design, data colle",
+      "intent": "funder"
+    },
+    {
+      "text": "German Federal Ministry for Education and Research (grant number 01LA1112A). The publication of this article was funded by the Open Access fund of the Leibniz Association",
+      "intent": "funder"
+    },
+    {
+      "text": "ication of this article was funded by the Open Access fund of the Leibniz Association. The funders had no role in study design, data collection and an",
+      "intent": "funder"
+    },
+    {
+      "text": "ng The authors gratefully acknowledge the scholarship from the InterResearch, Bangladesh to carry out the research. The role of the funding body to su",
+      "intent": "funder"
+    },
+    {
+      "text": "ervice. Acknowledgements The authors would like to acknowledge the financial support from the National Academy of Economics Strategy, CASS. (Grant No.",
+      "intent": "funder"
+    },
+    {
+      "text": "ution’. Funding This work was supported by the National Institute for Public Health and the Environment (RIVM), The Netherlands [HEC, S/133003, 2015–2",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding Data collection was enabled by a grant provided by the Cornell Population Center. Availability of data and materials Data on domestic violence",
+      "intent": "funder"
+    },
+    {
+      "text": "ployers. Funding This work was supported by the Kuwait Foundation for the Advancement of Science (KFAS) [P115-17IF-02]. Authors details E-mail: mutair",
+      "intent": "funder"
+    },
+    {
+      "text": " employers. Funding This work was supported by the Kuwait Foundation for the Advancement of Science (KFAS) [P115-17IF-02]. Authors details E-mail: mut",
+      "intent": "funder"
+    },
+    {
+      "text": "paper was funded by a generous grant from Global Development Network (GDN) and Economic Research Forum (ERF) who also provided the initial review of t",
+      "intent": "funder"
+    },
+    {
+      "text": "(PDF 116 kb) Acknowledgements This work was supported by JSPS KAKENHI Grant Number JP26245048. Competing interests The author declares that he has no",
+      "intent": "funder"
+    },
+    {
+      "text": "f educational level. Acknowledgments: Research funding by the German Research Foundation (TU 409/1-1) is gratefully acknowledged. Author Contributions",
+      "intent": "funder"
+    },
+    {
+      "text": "s. Funding: This research was supported by the Social Sciences and Humanities Research Council of Canada (767-2015-2015, sshrc-crsh.gc.ca). The funder",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding We are grateful for having received funding from The Icelandic Student Innovation Fund (application number 1536030091) and from The Icelandic ",
+      "intent": "funder"
+    },
+    {
+      "text": "Fund (application number 1536030091) and from The Icelandic Research Fund – Icelandic Center for Research (IRF grant number 130611–052) to support ass",
+      "intent": "funder"
+    },
+    {
+      "text": "have no competing interests. Funding This work was supported by a JSPS KAKENHI Grant (No. 19510049). MT developed the methodology. References Archer B",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding The project was funded by the European Union within the INTERREG IV Program (grant reference number “A 12 – Prométhée”). In 2011, the Transpla",
+      "intent": "funder"
+    },
+    {
+      "text": "go Budría acknowledges the financial support provided by the Spanish Ministry of Education through grants ECO2012-33993 and ECO2012-36480 and Aristos ",
+      "intent": "funder"
+    },
+    {
+      "text": "993 and ECO2012-36480 and Aristos Campus Mundus Program through grant ACM2016_22. This paper uses the Spanish National Immigrant Survey (NISS), a larg",
+      "intent": "funder"
+    },
+    {
+      "text": "This research received partial financial support from the Institute for New Economic Thinking (Grant INO13-00011), the Natural Sciences and Engineerin",
+      "intent": "funder"
+    },
+    {
+      "text": "support from the Institute for New Economic Thinking (Grant INO13-00011), the Natural Sciences and Engineering Research Council of Canada (Discovery G",
+      "intent": "funder"
+    },
+    {
+      "text": "knowledgement This study received financial support from the Government of the Netherlands through the Netherlands Organization for Scientific Researc",
+      "intent": "funder"
+    },
+    {
+      "text": "cientific Research (NWO/WOTRO) in the form of a research grant (Grant No. W07.45.104.00). I am grateful to the National Health Insurance Authority of ",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding The PICANT trial was funded by the German Federal Ministry of Education and Research (grant number 01GY1145). The funding body was not involve",
+      "intent": "funder"
+    },
+    {
+      "text": "GRASP”, a collaborative project funded by the European Commission’s Seventh Research Framework Programme, contract number 244725. Author details E-mai",
+      "intent": "funder"
+    },
+    {
+      "text": "The usual disclaimer applies. Funding This work was supported by Universitat de Girona. Author details E-mail: mariateresa.bosch@udg.edu E-mail: Joan.",
+      "intent": "funder"
+    },
+    {
+      "text": "Querin Wegermann, Priscila Perillier O’Reilly de Araujo Castro, Ednalva Fernandes Costa de Moraes, Sérgio José da Silva Mecena, Francisco José Batista Sousa, Regina Faria e Lucimar Dantas, FAPERJ, and UFF",
+      "intent": "funder"
+    },
+    {
+      "text": "ecena, Francisco José Batista Sousa, Regina Faria e Lucimar Dantas, FAPERJ, and UFF for their financial support. References ABDI (2007) Parques Tecnol",
+      "intent": "funder"
+    },
+    {
+      "text": "l support from the Harmonized Support for Agricultural Development USAID program at the International Food Policy Research Institute, as well as feedb",
+      "intent": "funder"
+    },
+    {
+      "text": "gements I acknowledge financial support from the Harmonized Support for Agricultural Development USAID program at the International Food Policy Resear",
+      "intent": "funder"
+    },
+    {
+      "text": "recasting proposes. Acknowledgements Partial financial support from the CONACYT CB-2015-01-252996 is gratefully acknowledged. Open Access This article",
+      "intent": "funder"
+    },
+    {
+      "text": " proposes. Acknowledgements Partial financial support from the CONACYT CB-2015-01-252996 is gratefully acknowledged. Open Access This article is distr",
+      "intent": "funder"
+    },
+    {
+      "text": "he manuscript. Funding: This research is supported by the National Social Science Foundation (Grant 13CTJ003), and China Postdoctoral Science Foundati",
+      "intent": "funder"
+    },
+    {
+      "text": " research was funded by the Agriculture and Food Research Initiative of the USDA National Institute of Food and Agriculture, grant number 2011-68001-3",
+      "intent": "funder"
+    },
+    {
+      "text": "-68001-30014. This work was also partly supported by the National Research Foundation of Korea (NRF-2014S1A3A2044459). Author details 1 Department of ",
+      "intent": "funder"
+    },
+    {
+      "text": "ments We are grateful to the financial supports from National Natural Science Foundation of China (71361005): Mechanism of IPO underpricing based on i",
+      "intent": "funder"
+    },
+    {
+      "text": "r the financial support provided by the Mednick Memorial Fellowship and the Lenfest Summer Research Fellowship. Responsible editor: Denis Fougère Com",
+      "intent": "funder"
+    },
+    {
+      "text": " Diette is grateful for the financial support provided by the Mednick Memorial Fellowship and the Lenfest Summer Research Fellowship. Responsible edit",
+      "intent": "funder"
+    },
+    {
+      "text": " was partially supported by FONDECYT 1160868 project grant from the Chilean Government. Author Contributions: These authors contributed equally to thi",
+      "intent": "funder"
+    },
+    {
+      "text": "e impact. Acknowledgments: The research was partially supported by FONDECYT 1160868 project grant from the Chilean Government. Author Contributions: T",
+      "intent": "funder"
+    },
+    {
+      "text": "d through a PhD scholarship granted to the author by the University of Exeter Business School. Author’s contributions I am the only author of this pap",
+      "intent": "funder"
+    },
+    {
+      "text": "EC received salary support from the National Health and Medical Research Council under an Early Career Fellowship (APP1052742). The funders had no rol",
+      "intent": "funder"
+    },
+    {
+      "text": "ons are our own. Funding Funding was provided by the National Natural Science Foundation of China (CN) (71503198). Authors’ contributions HL and DHY m",
+      "intent": "funder"
+    },
+    {
+      "text": "s ﬁnancially supported by the Directorate General for Employment, Social Affairs and Inclusion of the European Commission [Progress grant number VS/20",
+      "intent": "funder"
+    },
+    {
+      "text": "lly supported by the Directorate General for Employment, Social Affairs and Inclusion of the European Commission [Progress grant number VS/2011/0445].",
+      "intent": "funder"
+    },
+    {
+      "text": "tional support from the European Union’s Seventh Framework Programme for research, technological development and demonstration (AGENTA project, grant ",
+      "intent": "funder"
+    },
+    {
+      "text": " jointly supported by the Meiji University Global Center of Excellence (GCOE) Program and MEXT scholarship (Monbukagakusho). Author details Lukito Adi",
+      "intent": "funder"
+    },
+    {
+      "text": "s jointly supported by the Meiji University Global Center of Excellence (GCOE) Program and MEXT scholarship (Monbukagakusho). Author details Lukito Ad",
+      "intent": "funder"
+    },
+    {
+      "text": "ocument is an output from a project funded by the UK Department for International Development (DFID) and the Institute for the Study of Labour (IZA) f",
+      "intent": "funder"
+    },
+    {
+      "text": "is document is an output from a project funded by the UK Department for International Development (DFID) and the Institute for the Study of Labour (IZ",
+      "intent": "funder"
+    },
+    {
+      "text": "m a project funded by the UK Department for International Development (DFID) and the Institute for the Study of Labour (IZA) for the benefit of develo",
+      "intent": "funder"
+    },
+    {
+      "text": "owledgements The project underlying this article was funded by the Federal Ministry for Education and Research (Germany) under Grant Number 01PW11014.",
+      "intent": "funder"
+    },
+    {
+      "text": "y acknowledge financial support from Consejo Nacional de Ciencia y Tecnología, Sistema Nacional de Investigadores, grant 41826. I thank Alessandro Pav",
+      "intent": "funder"
+    },
+    {
+      "text": "ial support from Consejo Nacional de Ciencia y Tecnología, Sistema Nacional de Investigadores, grant 41826. I thank Alessandro Pavan for his feedback.",
+      "intent": "funder"
+    },
+    {
+      "text": "wledgments S. N. Ethier is partially supported by a grant from the Simons Foundation (209632) and J. Lee is supported by the Basic Science Research Pr",
+      "intent": "funder"
+    },
+    {
+      "text": "ments This study was supported by the major project of China National Social Science Foundation No.15AZD022. Authors’ contributions All authors equall",
+      "intent": "funder"
+    },
+    {
+      "text": "nging the mix of new migrants. Acknowledgments: The analysis reported in this study was commissioned by the Institute and Faculty of Actuaries (IFoA).",
+      "intent": "funder"
+    },
+    {
+      "text": "gencies when corporate lobbying is financially beneficial. Funding: This research was funded by Universiti Putra Malaysia grant number GP-IPS 9536600.",
+      "intent": "funder"
+    },
+    {
+      "text": "as well as three anonymous reviewers and the editor. Financial support by ZEW within the project ‘Employment Eﬀects of Environmental Regulation’ is gr",
+      "intent": "funder"
+    },
+    {
+      "text": " The usual disclaimer applies. Funding Financial support from the OeNB Jubilaeumsfond [number 11701], is gratefully acknowledged. Author details E-mai",
+      "intent": "funder"
+    },
+    {
+      "text": "edge the financial assistance received from the International Fund for Agricultural Development (IFAD) that was used in carrying out this study. Autho",
+      "intent": "funder"
+    },
+    {
+      "text": "re Capital Alänge and Steiber Triple Helix (2018) 5:5 Funding Grant 2014-00939 from Swedish Government Agency Vinnova to conduct the research upon w",
+      "intent": "funder"
+    },
+    {
+      "text": "nowledgements This paper has benefited from funding from the Spanish Ministry of Economics (Project ECO2012-34828). Responsible editor: Martin Kahanec",
+      "intent": "funder"
+    },
+    {
+      "text": "d equally to this work. Funding: This research was funded by International Funds KU Leuven grant numbers C16/15/068 and C24/15/001, the CRoNoS COST Ac",
+      "intent": "funder"
+    },
+    {
+      "text": "tially supported by a grant from the Shenzhen Municipal Science and Technology R&D Funding—Basic Research Program (Project No. JCYJ20140417105742712).",
+      "intent": "funder"
+    },
+    {
+      "text": "NUFFIC). The author is immensely indebted to the University of Chittagong for granting a study leave and to Mr Mohammad Ali Chowdhury, Professor of English, University of Chittagong for English language check and to Dr Mohammad Akter Hossan, Professor of Finance, University of Chittagong for his lovely support in formulating model. Funding This work was supported by Masters’ Scholarship and Netherlands Fellowship Program",
+      "intent": "funder"
+    },
+    {
+      "text": "of Chittagong for his lovely support in formulating model. Funding This work was supported by Masters’ Scholarship and Netherlands Fellowship Program.",
+      "intent": "funder"
+    },
+    {
+      "text": "rt during her stay in Porto Alegre. AFL is partially supported by a CNPq PhD grant. JJA thanks the INCT Sistemas Complexos and the Brazilian agencies ",
+      "intent": "funder"
+    },
+    {
+      "text": "tanding the ‘Culture Shift’ of Contemporary Bangladesh” funded by UIU Research Grant (2016). Mr Md Moniruzzaman Sarker, a faculty member of United Int",
+      "intent": "funder"
+    },
+    {
+      "text": "o investigate relationships from multiple perspectives. Funding This work was supported by the UIU Research Grants, 2016 [grant number UIU-RG-161005].",
+      "intent": "funder"
+    },
+    {
+      "text": "ions. I acknowledge the financial support of the Eduworks Marie Curie Initial Training Network Project (PITN-GA-2013-608311) of the European Commissio",
+      "intent": "funder"
+    },
+    {
+      "text": "hmann Funding This research has benefited from funding from the Economic Research Forum, Cairo, Egypt (www.erf.org.eg), under the auspices of a resear",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This work was supported by Kingston University. Author details E-mail: Miao.Zhang@kingston.ac.uk \u0007School of Economics and Management, Beihang",
+      "intent": "funder"
+    },
+    {
+      "text": "Financial support from the Government of Spain/FEDER through grant ECO2015-67602-P, the Severo Ochoa Program through grant SEV-2015-0563; and the Gene",
+      "intent": "funder"
+    },
+    {
+      "text": "the Government of Spain/FEDER through grant ECO2015-67602-P, the Severo Ochoa Program through grant SEV-2015-0563; and the Generalitat of Catalonia th",
+      "intent": "funder"
+    },
+    {
+      "text": "ject of Jiangxi Province( #16ZD019), Grants from the National Natural Science Foundation of China (#71433001). Authors’ contribution The main contribu",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This research was funded by the CRC for Low Carbon Living Ltd supported by the Cooperative Research Centres Program, an Australian Government ",
+      "intent": "funder"
+    },
+    {
+      "text": "ed by the CRC for Low Carbon Living Ltd supported by the Cooperative Research Centres Program, an Australian Government initiative (project ID RP2007)",
+      "intent": "funder"
+    },
+    {
+      "text": "nt to acknowledge the support received by the Department of Universities, Research & Information Society of the Catalan Government (Grant 2014-CTP-000",
+      "intent": "funder"
+    },
+    {
+      "text": " the Department of Universities, Research & Information Society of the Catalan Government (Grant 2014-CTP-00001) and the CAN Foundation (Navarre, Spain)",
+      "intent": "funder"
+    },
+    {
+      "text": "edge the support received by the Department of Universities, Research & Information Society of the Catalan Government (Grant 2014-CTP-00001) and the C",
+      "intent": "funder"
+    },
+    {
+      "text": "ted by the Spanish Ministry of Economy and Competitiveness (grant TRA2013-48180-C3-P), FEDER, and the Ibero-American Programme for Science and Technol",
+      "intent": "funder"
+    },
+    {
+      "text": "ng This research has been funded by CNPq proc. 485070/2013-8, FAPESP proc. 13/06146-7, and FAPESP proc. 14/06478-2. Availability of data and materials",
+      "intent": "funder"
+    },
+    {
+      "text": "ding This paper is based upon work supported by the Spanish Ministry of Economy and Competitiveness (projectECO2011-23189). One of the authors also gr",
+      "intent": "funder"
+    },
+    {
+      "text": "arch (ACIAR). The main body of this research was conducted as part of an ACIAR-­ funded project—“Developing agricultural policies for rice-based farmi",
+      "intent": "funder"
+    },
+    {
+      "text": " This chapter is based on research supported under the Asian Development Bank TA-7648 Regional—Research and Development Technical Assistance (R-RDTA).",
+      "intent": "funder"
+    },
+    {
+      "text": "ts can be obtained. Acknowledgments Hofbauer’s work was supported by the WWTF grant (Project Number MA09-017) of the city of Vienna, Austria. Huttegge",
+      "intent": "funder"
+    },
+    {
+      "text": "e manuscript. Funding: This research has received funding from the Society of Actuaries through our Center of Actuarial Excellence (CAE) research gran",
+      "intent": "funder"
+    },
+    {
+      "text": "ding: This research has received funding from the Society of Actuaries through our Center of Actuarial Excellence (CAE) research grant on data mining.",
+      "intent": "funder"
+    },
+    {
+      "text": "ported by the authors. Funding This work was supported by the German Research Foundation (DFG) [285911066]. References Almus, M. 2004. “The Shadow of ",
+      "intent": "funder"
+    },
+    {
+      "text": "he authors gratefully acknowledge financial support by the German Research Foundation (DFG) under the project ‘Wage and employment effects of bankrupt",
+      "intent": "funder"
+    },
+    {
+      "text": "ack. Funding This research was supported by the Vitality Institute and the National Institute of Aging. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. Availabilit",
+      "intent": "funder"
+    },
+    {
+      "text": "dback. Funding This research was supported by the Vitality Institute and the National Institute of Aging. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. Availabil",
+      "intent": "funder"
+    },
+    {
+      "text": "vided by nspm ltd, Meggen, Switzerland, with financial support from Roche Pharma AG. 11. Availability of data and materials As explained in the manusc",
+      "intent": "funder"
+    },
+    {
+      "text": " were supported by the grant PII-2012, Business School, University of Puerto Rico, Rio Piedras. Open Access This article is distributed under the term",
+      "intent": "funder"
+    },
+    {
+      "text": "s paper. Jairo Fúquene and Marta Álvarez were supported by the grant PII-2012, Business School, University of Puerto Rico, Rio Piedras. Open Access ",
+      "intent": "funder"
+    },
+    {
+      "text": ". Funding This paper was supported by the High-level Young Scholars Team-Building Fund of Sichuan University [grant numbers SKGT20130, SKQY201520]; So",
+      "intent": "funder"
+    },
+    {
+      "text": "on in China. Funding This paper was supported by the High-level Young Scholars Team-Building Fund of Sichuan University [grant numbers SKGT20130, SKQY",
+      "intent": "funder"
+    },
+    {
+      "text": "(DOCX 89 kb) Funding This study was supported by a Canadian Institutes of Health Research (CIHR) operating grant (#231571). Wei Zhang was funded by th",
+      "intent": "funder"
+    },
+    {
+      "text": "89 kb) Funding This study was supported by a Canadian Institutes of Health Research (CIHR) operating grant (#231571). Wei Zhang was funded by the CIHR",
+      "intent": "funder"
+    },
+    {
+      "text": "age boards. Acknowledgements This paper is funded by National Nature Sciences Foundation of China (No. 71372148). Funding National Nature Sciences Fou",
+      "intent": "funder"
+    },
+    {
+      "text": " Funding This study was sponsored by Otsuka Pharmaceutical Development & Commercialization, Inc. and Lundbeck GmbH. The sponsor was involved in the st",
+      "intent": "funder"
+    },
+    {
+      "text": "e it. Funding: This work was supported in part by the Japan Society for the Promotion of Science KAKENHI Grant Number 16H03606. Acknowledgments: We ap",
+      "intent": "funder"
+    },
+    {
+      "text": " supported in part by the Japan Society for the Promotion of Science KAKENHI Grant Number 16H03606. Acknowledgments: We appreciate two anonymous refer",
+      "intent": "funder"
+    },
+    {
+      "text": "This research is supported by JSPS KAKENHI Grant Numbers 23730235, 15K17072 (PI: Ayako Kondo), and 24330074 (PI: Ryo Kambayashi). The use of microdata",
+      "intent": "funder"
+    },
+    {
+      "text": "port. Furthermore, funding was provided by the German Federal Ministry for Education and Research (BMBF) in the projects “CoalExit” (01LN1704A) and “F",
+      "intent": "funder"
+    },
+    {
+      "text": "mputational complexity. Acknowledgments The authors thank Friedrich Kunz, and Alexander Weber for valuable comments and support. Furthermore, funding ",
+      "intent": "funder"
+    },
+    {
+      "text": " for their efforts that led to the success of this study. Funding Haramaya University financially and logistically supported this research. Availabili",
+      "intent": "funder"
+    },
+    {
+      "text": "hing; SSA: Sub Saharan Africa Acknowledgements We are grateful to Haramaya University for funding this research work. We also acknowledge Mr. Kumilach",
+      "intent": "funder"
+    },
+    {
+      "text": " Grant-in-Aid for Scientific Research (Grant Numbers 22000001, 26285056, 26245039, and 15H05692) from Japan’s Ministry of Education, Culture, Sports, Science and Technology",
+      "intent": "funder"
+    },
+    {
+      "text": "graphics and the Labor Market. This paper is funded by a Grant-in-Aid for Scientific Research (Grant Numbers 22000001, 26285056, 26245039, and 15H0569",
+      "intent": "funder"
+    },
+    {
+      "text": " Economic Analysis of Intergenerational Issues and is funded through a Grant-in- Kobayashi et al. IZA Journal of Labor Policy (2016) 5:18 Aid for Sp",
+      "intent": "funder"
+    },
+    {
+      "text": "etting. Acknowledgments: This research was supported by the Canada Research Chairs Program and grants from the Natural Sciences (Mailhot 101041, Mesfi",
+      "intent": "funder"
+    },
+    {
+      "text": "ments: This research was supported by the Canada Research Chairs Program and grants from the Natural Sciences (Mailhot 101041, Mesfioui 261968). Autho",
+      "intent": "funder"
+    },
+    {
+      "text": " independent report commissioned and funded by the Policy Research Programme in the Department of Health (reference 006/0060). The views expressed are",
+      "intent": "funder"
+    },
+    {
+      "text": "ependent research commissioned and funded by the Policy Research Programme in the Department of Health (reference 006/0060). The views expressed are n",
+      "intent": "funder"
+    },
+    {
+      "text": "These factors were guided by the funders, the Department of Health, as being of particular interest in the UK context. Relevant studies were identifie",
+      "intent": "funder"
+    },
+    {
+      "text": "This in an independent research commissioned and funded by the Policy Research Programme in the Department of Health (reference 006/0060). The views e",
+      "intent": "funder"
+    },
+    {
+      "text": "ng This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme [grant number 710659], ONLINE-S3. Author",
+      "intent": "funder"
+    },
+    {
+      "text": " This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme [grant number 710659], ONLINE-S3. Author d",
+      "intent": "funder"
+    },
+    {
+      "text": "-158).This paper is supported by National Social Science Foundation (13CJY121) and National Natural Science Foundation (71302008, 71302186). Author de",
+      "intent": "funder"
+    },
+    {
+      "text": "o gain the co-player’s trust. Acknowledgments Support from the John Templeton Foundation is gratefully acknowledged. Christian Hilbe acknowledges gene",
+      "intent": "funder"
+    },
+    {
+      "text": "The author (Rakesh Kumar Meena) would like thank MHRD, India to provide senior research fellowship. Fig. 9 TC(s) at various values of l Open Access T",
+      "intent": "funder"
+    },
+    {
+      "text": "nowledgments The authors would like to acknowledge from Ministry of JihadE-Agriculture of Iran (MAJ) and, also, 360 of farmers in Kermanshah province ",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgements Financial support from the Jan Wallander and Tom Hedelius Foundation and Formas is gratefully acknowledged. Magnus Wikström and Karl-",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This work was supported by the Polish National Science Centre [6752/B/H03/2011/40]. Notes on contributors Michal Myck (Corresponding author) i",
+      "intent": "funder"
+    },
+    {
+      "text": "inal manuscript. Funding Monika Jungbauer-Gans received funding for this article from the Deutsche Forschungsgemeinschaft under grant DFG JU 414/15-1.",
+      "intent": "funder"
+    },
+    {
+      "text": "641191, which funded the publication of this article and the CNR (Consiglio Nazionale delle Ricerche) for the Short Term Mobility Program 2016, which ",
+      "intent": "funder"
+    },
+    {
+      "text": "g Researchers Incentive Grant GGPM-2016-004 provided by the National University of Malaysia. Acknowledgments: We thank two referees for their valuable",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding: The research is partially funded by the Young Researchers Incentive Grant GGPM-2016-004 provided by the National University of Malaysia. Ackn",
+      "intent": "funder"
+    },
+    {
+      "text": "was supported by the project ECO2016-75805-R from the Spanish Ministry of Economy and Competitiveness. An earlier version of this paper was presented ",
+      "intent": "funder"
+    },
+    {
+      "text": "s supported by the project ECO2016-75805-R from the Spanish Ministry of Economy and Competitiveness. Publisher’s Note Springer Nature remains neutral",
+      "intent": "funder"
+    },
+    {
+      "text": " research was supported by the project ECO2016-75805-R from the Spanish Ministry of Economy and Competitiveness. An earlier version of this paper was ",
+      "intent": "funder"
+    },
+    {
+      "text": "query​id=36324​. Funding This research was supported by the project ECO2016-75805-R from the Spanish Ministry of Economy and Competitiveness. Publishe",
+      "intent": "funder"
+    },
+    {
+      "text": "excellent research assistance. Financial support from the Vienna Science and Technology Fund (WWTF) under project fund MA 09-017 is gratefully acknowl",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgments Funding This study was funded by the German Research Foundation (DFG). Author details Leibniz University Hannover, Center for Health E",
+      "intent": "funder"
+    },
+    {
+      "text": "mburger Kolleg/Centre for Global Cooperation (Duisburg) and support by IRECOHEX (University of Oslo) while working on the paper. Author Contributions:",
+      "intent": "funder"
+    },
+    {
+      "text": "port for Heike Hennig-Schmidt is gratefully acknowledged by Deutsche Forschungsgemeinschaft (Sonderforschungsbereich 303 and grants HE 2790/2, 446 CHV",
+      "intent": "funder"
+    },
+    {
+      "text": "or their helpful comments and suggestions. Financial support for Heike Hennig-Schmidt is gratefully acknowledged by Deutsche Forschungsgemeinschaft (S",
+      "intent": "funder"
+    },
+    {
+      "text": "JSPS KAKENHI Grant Number 15H06347, and by the Environment Research and Technology Development Fund (S-16) of the Environmental Restoration and Conservation Agency, Japan",
+      "intent": "funder"
+    },
+    {
+      "text": "research was supported by JSPS KAKENHI Grant Number 15H06347, and by the Environment Research and Technology Development Fund (S-16) of the Environmen",
+      "intent": "funder"
+    },
+    {
+      "text": ". The publishing of this paper was supported by SOItmC and the DGIST R&D Program of the Ministry of Science, ICT and Future Planning (16-IT) of Korea.",
+      "intent": "funder"
+    },
+    {
+      "text": "e authenticity of the work. Funding This work was supported by Chidinma Nwamaka Ozuomba [grant number 08038662767]. Author details E-mails: chidinmaoz",
+      "intent": "funder"
+    },
+    {
+      "text": "manufacturer. Acknowledgements This work was partly funded by the European Commission through the Project ERN: “The European Remanufacturing Network -",
+      "intent": "funder"
+    },
+    {
+      "text": "sions In order to promote remanufacturing activities in Europe, the European Commission funded the European Remanufacturing Network project. The proje",
+      "intent": "funder"
+    },
+    {
+      "text": "o accelerate the growth in European remanufacturing activities, the European Commission has funded a project to form, coordinate and support a Europea",
+      "intent": "funder"
+    },
+    {
+      "text": " Research Institute). Sarah Voitchovsky is grateful to the Swiss National Science Foundation for the financial support. We would also like to thank th",
+      "intent": "funder"
+    },
+    {
+      "text": "owledgement This research was supported by the MSIP(Ministry of Science, ICT and Future Planning), Korea, under the ITRC (Information Technology Resea",
+      "intent": "funder"
+    },
+    {
+      "text": "I gratefully acknowledge financial support from the Ministerio de Educación y Ciencia through projects ECO2010-21624 and ECO2011-26996, and the Junta ",
+      "intent": "funder"
+    },
+    {
+      "text": "aper is supported by four funding projects, including National Social Science Foundation of China, Funding Project of Education Ministry for the Devel",
+      "intent": "funder"
+    },
+    {
+      "text": ". Competing interests Access to data and funding was provided by Sucampo Pharma Europe. SV disclosed that he became an employee of GlaxoSmithKline aft",
+      "intent": "funder"
+    },
+    {
+      "text": "ement This work was supported by the ISTAC (International Institute of Islamic Thought and Civilization) Research Fund of International Islamic Univer",
+      "intent": "funder"
+    },
+    {
+      "text": "lamic University Malaysia. The authors are grateful to ISTAC of International Islamic University for financial support. Author details Department of E",
+      "intent": "funder"
+    },
+    {
+      "text": "ported by the ISTAC (International Institute of Islamic Thought and Civilization) Research Fund of International Islamic University Malaysia. The auth",
+      "intent": "funder"
+    },
+    {
+      "text": "ent This work was supported by the ISTAC (International Institute of Islamic Thought and Civilization) Research Fund of International Islamic Universi",
+      "intent": "funder"
+    },
+    {
+      "text": " method. Acknowledgements This paper is supported by the National Social Science Fund of China (Grant: 15CJL025) and the NSE Special Research Fund gra",
+      "intent": "funder"
+    },
+    {
+      "text": "thors acknowledge financial support of the Flemish minister of Employment, Economics, Innovation and Sports within the Flemish program of strategic la",
+      "intent": "funder"
+    },
+    {
+      "text": " Funding This research was supported by Brazilian Council for Scientific and Technological Development (CNPq). Author details E-mail: isaacpergher@gma",
+      "intent": "funder"
+    },
+    {
+      "text": "h [Nos. 26241031 and 16H01797] from the Ministry of Education, Culture, Sports, Science and Technology in Japan. References Avriel M (2003) Nonlinear ",
+      "intent": "funder"
+    },
+    {
+      "text": "ave no competing interests. Funding This research was supported by a Grant-in-Aid for research [Nos. 26241031 and 16H01797] from the Ministry of Educa",
+      "intent": "funder"
+    },
+    {
+      "text": " and analyzing secondary data. Funding This work was supported by the Arsi University [01/2008]. Author details E-mail: dandiboru@gmail.com Department",
+      "intent": "funder"
+    },
+    {
+      "text": "nd analyzing secondary data. Funding This work was supported by the Arsi University [01/2008]. Author details E-mail: dandiboru@gmail.com Department o",
+      "intent": "funder"
+    },
+    {
+      "text": "of Graz and a research seminar at the University of Vienna. Funding from the Austrian Science Fund (FWF) under Grant W1229 is gratefully acknowledged.",
+      "intent": "funder"
+    },
+    {
+      "text": "tainable development of China. Acknowledgments: The work was financially supported by National Basic Research Development Program of China (Grant Nos.",
+      "intent": "funder"
+    },
+    {
+      "text": " by the Grant-in-Aid for JSPS Fellows 231657 from the Japan Society for the Promotion of Science. Author details E-mail: kumakawa.takehisa@nitech.ac.j",
+      "intent": "funder"
+    },
+    {
+      "text": "le substantially. Funding This work was supported by the Grant-in-Aid for JSPS Fellows 231657 from the Japan Society for the Promotion of Science. Aut",
+      "intent": "funder"
+    },
+    {
+      "text": "Nax and Duca acknowledge financial support by the European Commission through the ERC Advanced Investigator Grant ‘Momentum’ (Grant No. 324247). All r",
+      "intent": "funder"
+    },
+    {
+      "text": "ge financial support by the European Commission through the ERC Advanced Investigator Grant ‘Momentum’ (Grant No. 324247). All remaining errors are ou",
+      "intent": "funder"
+    },
+    {
+      "text": "has received funding from European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 749443.",
+      "intent": "funder"
+    },
+    {
+      "text": "C JOURNAL OF ECONOMICS Funding This work was supported by National Science Centre of Poland [DEC-2013/11/B/HS4/01040]. Notes on contributors Tinatin ",
+      "intent": "funder"
+    },
+    {
+      "text": "It was ﬁnanced by the German Research Foundation (DFG) under Grant CH 864/3-1, IB 95/6-1, JE 202/6-1 and WA 1591/6-1. The project comprised four sub-p",
+      "intent": "funder"
+    },
+    {
+      "text": "d by the German Research Foundation (DFG) under Grant CH 864/3-1, IB 95/6-1, JE 202/6-1 and WA 1591/6-1. The project comprised four sub-projects in cl",
+      "intent": "funder"
+    },
+    {
+      "text": "nd it was also supported by Internal Grant Agency of Faculty of Business Administration, University of Economics in Prague, under no. : IP300040. Auth",
+      "intent": "funder"
+    },
+    {
+      "text": "e University of Economics in Prague and it was also supported by Internal Grant Agency of Faculty of Business Administration, University of Economics ",
+      "intent": "funder"
+    },
+    {
+      "text": "This work was supported by a Starting Grant from the European Research Council (Grant No. 313532). Open Access This article is distributed under the t",
+      "intent": "funder"
+    },
+    {
+      "text": "e with thanks that this research was part-funded by The Royal Commission for the Exhibition of 1851 and conducted through the goodwill of Caterpillar ",
+      "intent": "funder"
+    },
+    {
+      "text": "funded by The Royal Commission for the Exhibition of 1851 and conducted through the goodwill of Caterpillar Remanufacturing Limited, Rushden. Referenc",
+      "intent": "funder"
+    },
+    {
+      "text": " Wahba. Funding This research was supported by a generous grant from Good Ventures. Availability of data and materials The data and code to replicate ",
+      "intent": "funder"
+    },
+    {
+      "text": "event Acknowledgement This study was funded by Merz Pharmaceuticals Gmbh. GmbH, Frankfurt/ Main, Germany. Authors’ contributions FK contributed to the",
+      "intent": "funder"
+    },
+    {
+      "text": "ious adverse event Acknowledgement This study was funded by Merz Pharmaceuticals Gmbh. GmbH, Frankfurt/ Main, Germany. Authors’ contributions FK contr",
+      "intent": "funder"
+    },
+    {
+      "text": "survey was funded by the Wissenschaftszentrum Berlin and the Centre for the Study of Public Policy, University of Strathclyde. Earlier versions were p",
+      "intent": "funder"
+    },
+    {
+      "text": "g The work of the first-named author was supported by an Economic and Social Research Council grant number ES/I03482X/1 about the global experience of",
+      "intent": "funder"
+    },
+    {
+      "text": "uscript is based on a background paper commissioned and funded by the World Bank’s Poverty Reduction and Economic Management Unit, Europe and Central ",
+      "intent": "funder"
+    },
+    {
+      "text": "ioned and funded by the World Bank’s Poverty Reduction and Economic Management Unit, Europe and Central Asia Region Department. The World Bank ECA Dep",
+      "intent": "funder"
+    },
+    {
+      "text": "sion to Health Economics Review. The study was funded and initiated by Medela AG. The study funders played no role in the design of the study, analysi",
+      "intent": "funder"
+    },
+    {
+      "text": "research was funded by a grant from the ‘Bijzonder Onderzoeksfonds’ (FFB130151) from the University of Antwerp. Many thanks to Sofie Laureyssens for a",
+      "intent": "funder"
+    },
+    {
+      "text": "ts: This research was funded by a grant from the ‘Bijzonder Onderzoeksfonds’ (FFB130151) from the University of Antwerp. Many thanks to Sofie Laureyss",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgments: This research was funded by a grant from the ‘Bijzonder Onderzoeksfonds’ (FFB130151) from the University of Antwerp. Many thanks to S",
+      "intent": "funder"
+    },
+    {
+      "text": "he coordinated studies and the meta-analysis was provided by Fidelity Charitable Gift Fund. Individual studies received supplementary funding or in-ki",
+      "intent": "funder"
+    },
+    {
+      "text": "National Key Research and Development Program of China (Grant no. 2017YFC0504301), the Key Project of National Social and Scientific Fund Program (Grant no.16ZDA047), Alexander von Humboldt Foundation",
+      "intent": "funder"
+    },
+    {
+      "text": "2015CB953602, 2016YFA0602500), and the National Science Foundation of China (Grant no. 41271542). We thank the editor Dr. Sylvain Delzon and the revie",
+      "intent": "funder"
+    },
+    {
+      "text": "National Key Research and Development Program of China (Grant no. 2017YFC0504301), the Key Project of National Social and Scientific Fund Program (Grant no.16ZDA047),",
+      "intent": "funder"
+    },
+    {
+      "text": "and Karhula further acknowledge funding from the Strategic Research Council at the Academy of Finland Appendix A. Distributions of parental background",
+      "intent": "funder"
+    },
+    {
+      "text": "y of Finland Flagship Programme (decision number: 320162). Erola further acknowledges funding from the European Research Council (ERC-2013CoG-617965).",
+      "intent": "funder"
+    },
+    {
+      "text": "ipt. Acknowledgments: This research has been partially supported by the Marsden grant number E2987-3648 (Royal Society of New Zealand). We thank four ",
+      "intent": "funder"
+    },
+    {
+      "text": "rticipate Not applicable. Funding This work was supported in part by JSPS KAKENHI (Grant Numbers 16K16231, 16H01797); The Environment Research & Techn",
+      "intent": "funder"
+    },
+    {
+      "text": "as supported in part by JSPS KAKENHI (Grant Numbers 16K16231, 16H01797); The Environment Research & Technology Development Fund of the Japanese Minist",
+      "intent": "funder"
+    },
+    {
+      "text": "ially funded through a grant from the Structure and Performance of Agriculture and Agri-products Industry Network. Researchers from Agriculture and Ag",
+      "intent": "funder"
+    },
+    {
+      "text": "k Republic”. Funding The Scientific Grant Agency of the Ministry of Education, Science, Research and Sport of the Slovak Republic - Project VEGA No. 1",
+      "intent": "funder"
+    },
+    {
+      "text": "gements This paper was created within the project supported by the Scientific Grant Agency of the Ministry of Education, Science, Research and Sport o",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgements This article was funded by the Austrian Science Fund (FWF) under Grant P24915-G11: “Diffusion Processes in economic systems” and supp",
+      "intent": "funder"
+    },
+    {
+      "text": "Processes in economic systems” and supported by funds of the Oesterreichische Nationalbank, Anniversary Fund, Project No. 15482. The authors like to t",
+      "intent": "funder"
+    },
+    {
+      "text": "f the Oesterreichische Nationalbank, Anniversary Fund, Project No. 15482. The authors like to thank the FWF and the Oesterreichische Nationalbank for ",
+      "intent": "funder"
+    },
+    {
+      "text": "cknowledges the financial support from Project 2014SGR493 by the Generalitat de Catalunya (Spain) and Project ECO2012-34046 by the Ministerio de Cienc",
+      "intent": "funder"
+    },
+    {
+      "text": "rt from Project 2014SGR493 by the Generalitat de Catalunya (Spain) and Project ECO2012-34046 by the Ministerio de Ciencia e Innovación (Spain). The op",
+      "intent": "funder"
+    },
+    {
+      "text": "ject 2014SGR493 by the Generalitat de Catalunya (Spain) and Project ECO2012-34046 by the Ministerio de Ciencia e Innovación (Spain). The opinions expr",
+      "intent": "funder"
+    },
+    {
+      "text": "edgements This work was supported by funding from the Health System Performance Research Network (MOHLTC Grant No. 06034) and by a grant from the Cana",
+      "intent": "funder"
+    },
+    {
+      "text": " Network (MOHLTC Grant No. 06034) and by a grant from the Canadian Institute for Health Research (CIHR grant 84310). We would like to acknowledge Stat",
+      "intent": "funder"
+    },
+    {
+      "text": " for their useful comments and suggestions. Financial aid from the Xunta de Galicia (Consolidación e Estruturación—2016 GPC GI-2060), and from the Spa",
+      "intent": "funder"
+    },
+    {
+      "text": "(Consolidación e Estruturación—2016 GPC GI-2060), and from the Spanish Ministry of Education and Science (Grant ECO2013-48496-C4-1-R) is acknowledged.",
+      "intent": "funder"
+    },
+    {
+      "text": "uthors gratefully acknowledge the funding of this work by the German Research Association (Deutsche Forschungsgemeinschaft, DFG) and Collaborative Res",
+      "intent": "funder"
+    },
+    {
+      "text": "by the German Research Association (Deutsche Forschungsgemeinschaft, DFG) and Collaborative Research Center CRC1026 (Sonderforschungsbereich SFB1026).",
+      "intent": "funder"
+    },
+    {
+      "text": "s​://www. krive​t.re.kr. Funding This work was supported by Global Research Network program through the Ministry of Education of the Republic of Korea",
+      "intent": "funder"
+    },
+    {
+      "text": "gy-saving and environmental enterprises. Acknowledgments: This work is supported by National Natural Science Foundation of China (Grant No. 71503078).",
+      "intent": "funder"
+    },
+    {
+      "text": "ificantly improved the article. This study is supported by the European Research Council Starting Grant (# 716350). Aristotle, Politics: A Treatise on",
+      "intent": "funder"
+    },
+    {
+      "text": "oved the article. This study is supported by the European Research Council Starting Grant (# 716350). Aristotle, Politics: A Treatise on Government, B",
+      "intent": "funder"
+    },
+    {
+      "text": "y improved the article. This study is supported by the European Research Council Starting Grant (# 716350). Aristotle, Politics: A Treatise on Governm",
+      "intent": "funder"
+    },
+    {
+      "text": "ructures (2018) 7:4 Funding Funding was provided by National Natural Science Foundation of China (Grant No. 71733003), Tsinghua University Independen",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This study was funded by a Starting Grant from the European Research Council (Grant Number 313532). Compliance with ethical standards Conflict",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgements The first author is grateful to the International Food Policy Research Institute (IFPRI), Ghana, for providing funds for data collect",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This research is funded by the Research Council of Norway in the Programme for Regional R&D and Innovation (VRI). This research is part of the",
+      "intent": "funder"
+    },
+    {
+      "text": "9/11 to 30/6/15, grant agreement number 285541) is co-funded by the European Union under the Information and Communication Technologies (ICT) theme of",
+      "intent": "funder"
+    },
+    {
+      "text": "ts This research was supported by a Grant from the German Federal Ministry of Education and Research (Grant Number PLI3061). Competing interests The a",
+      "intent": "funder"
+    },
+    {
+      "text": "ity of Wollongong). Funding The research was funded by Australian Learning and Teaching Council (now Office of Learning and Teaching) Priority Program",
+      "intent": "funder"
+    },
+    {
+      "text": " The research was funded by Australian Learning and Teaching Council (now Office of Learning and Teaching) Priority Program [grant number PP10-1646] “",
+      "intent": "funder"
+    },
+    {
+      "text": "nd the anonymous referees for the useful remarks. We thank the World Bank’s Gender Action Plan, TFESSD, and PSIA trust funds for funding this project.",
+      "intent": "funder"
+    },
+    {
+      "text": "he author. Funding I acknowledge financial support from the Deutsche Forschungsgemeinschaft (grant number TA 829/2-2). References Ammermueller, A., an",
+      "intent": "funder"
+    },
+    {
+      "text": "ted to these aims. Acknowledgments: This work is financed by the Austrian Science Fund (FWF) project no. P26289-N23. The authors would like to thank t",
+      "intent": "funder"
+    },
+    {
+      "text": "g We would like to acknowledge the research support from Higher Education Commission of Pakistan under its NRPU (National Research for Pakistani Unive",
+      "intent": "funder"
+    },
+    {
+      "text": "Competing interests The study was funded by ALK-Abelló. Janina Volk, Thomas Winkler, Ivonne Thiessen and Eike Wüstenberg are employed by ALK-Abelló Ar",
+      "intent": "funder"
+    },
+    {
+      "text": "tment options are available. Acknowledgements The study was funded by ALK-Abelló, Hørsholm, Denmark. Authors’ contribution KD and JV have contributed ",
+      "intent": "funder"
+    },
+    {
+      "text": "cknowledgements The authors would like to acknowledge the support of the cLINK (Centre of excellence for Learning, Innovation, Networking and Knowledg",
+      "intent": "funder"
+    },
+    {
+      "text": "y the authors. Funding This research was supported by Bundesministerium für Bildung und Forschung: [Grant Number 03INTBF01B]. References Andersson, S.",
+      "intent": "funder"
+    },
+    {
+      "text": "ion based on past behavior. Funding This work was supported by University Putra Malaysia (UPM). Author details Laily Hj Paim1 E-mail: Laily@putra.upm.",
+      "intent": "funder"
+    },
+    {
+      "text": "ject funded by the Program for Arts-Based Research (PEEK) of the Austrian Science Fund (FWF). Competing interests The author declares that she have no",
+      "intent": "funder"
+    },
+    {
+      "text": "n artistic research project funded by the Program for Arts-Based Research (PEEK) of the Austrian Science Fund (FWF). Competing interests The author de",
+      "intent": "funder"
+    },
+    {
+      "text": "implications. Funding This research study is supported by the Ministry of Education in China, Project of Humanities and Social Science (Project No. 13",
+      "intent": "funder"
+    },
+    {
+      "text": "cience (Project No. 13YJA630002), and a grant from the Modern Information Management Research Center at Huazhong University of Science and Technology ",
+      "intent": "funder"
+    },
+    {
+      "text": "s and services. Funding This work was supported by Kulttuurin ja Yhteiskunnan Tutkimuksen Toimikunta [grant number 285736]. Author details E-mail: ant",
+      "intent": "funder"
+    },
+    {
+      "text": "was reported by the authors. Funding This work was supported by Narodowe Centrum Nauki: [2014/13/B/HS4/00209]. Notes on contributors Dariusz Filip is ",
+      "intent": "funder"
+    },
+    {
+      "text": "nowledgements We would to thanks from any participants who contributed in the study. This study was supported by Shiraz University of Medical Science.",
+      "intent": "funder"
+    },
+    {
+      "text": "ection in the study. Funding This study was supported by Shiraz University of Medical Science (grant no. 92–01–21-7009). Availability of data and mate",
+      "intent": "funder"
+    },
+    {
+      "text": "fts. Acknowledgements Financial support from the Open Society Foundations and the Oxford Martin School is gratefully acknowledged. We are indebted to ",
+      "intent": "funder"
+    },
+    {
+      "text": "search paper is made possible through the support from the International Development Research Center of Canada (IDRC) which provided us with Grant No.",
+      "intent": "funder"
+    },
+    {
+      "text": "ment and Livelihoods in Syria.” The authors are particularly thankful to IDRC which has seen in the gendered migration and natural resource management",
+      "intent": "funder"
+    },
+    {
+      "text": "rovision by Sociaal en Cultureel Planbureau and financial support by Instituut Gak are gratefully acknowledged. Responsible editor: Juan Jimeno Compet",
+      "intent": "funder"
+    },
+    {
+      "text": "gen, Netherlands). The project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement no.",
+      "intent": "funder"
+    },
+    {
+      "text": "ents David Abad acknowledges financial support from the Ministerio de Economía y Competitividad through Grants ECO2013-4409-P and ECO2014-58434-P. We ",
+      "intent": "funder"
+    },
+    {
+      "text": "VO:67985807. The research of Michal Pešta was supported by the Czech Science Foundation project GAČR No. 15-04774Y. The authors would like to thank t",
+      "intent": "funder"
+    },
+    {
+      "text": "wledgments: Institutional support to Barbora Peštová was provided by RVO:67985807. The research of Michal Pešta was supported by the Czech Science Fou",
+      "intent": "funder"
+    },
+    {
+      "text": "e, 1997, amongst others). Funding This work was supported by National Research Foundation [grant number 110371]. Acknowledgements The authors would li",
+      "intent": "funder"
+    },
+    {
+      "text": ") for their meaningful contributions. Financial Support from National Research Foundation (ZA) is highly appreciated. Moreover, we thank anonymous rev",
+      "intent": "funder"
+    },
+    {
+      "text": "for their meaningful contributions. Financial Support from National Research Foundation (ZA) is highly appreciated. Moreover, we thank anonymous revie",
+      "intent": "funder"
+    },
+    {
+      "text": "rticle. I acknowledge funding from the German Science Foundation (Grant PO1569/2-1) and the Hans Böckler Foundation (Grant 2015-926-3). Supporting Inf",
+      "intent": "funder"
+    },
+    {
+      "text": "arlier version of this article. I acknowledge funding from the German Science Foundation (Grant PO1569/2-1) and the Hans Böckler Foundation (Grant 201",
+      "intent": "funder"
+    },
+    {
+      "text": "nt No potential conﬂict of interest was reported by the authors. Funding This work was supported by the Estonian Research Council under Grant MOBTP11.",
+      "intent": "funder"
+    },
+    {
+      "text": "ggestions. This work supported by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2014S1A2A2027622), and supporte",
+      "intent": "funder"
+    },
+    {
+      "text": "ted by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2014S1A2A2027622), and supported in part by the National N",
+      "intent": "funder"
+    },
+    {
+      "text": " constructive suggestions. This work supported by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2014S1A2A202762",
+      "intent": "funder"
+    },
+    {
+      "text": "ransparent and accountable. Funding This work was funded by the Government of Indonesia. Author details E-mails: sadi_id@yahoo.com, sasonoadi1998@gmai",
+      "intent": "funder"
+    },
+    {
+      "text": ", he is pursuing his doctoral degree which also financed by the Government of Indonesia. He has been a government employee which is work as a governme",
+      "intent": "funder"
+    },
+    {
+      "text": "nn Funding The authors acknowledge funding support from the Economic Research Forum (ERF). Competing interests The IZA Journal of Labor & Development ",
+      "intent": "funder"
+    },
+    {
+      "text": "nza (my co-author) and I jointly received financing to write this manuscript from the African Economics Research Consortium (AERC), Grant No. RT15526.",
+      "intent": "funder"
+    },
+    {
+      "text": "ent research assistance. Financial support from the Spanish Ministry of Economy and Competitiveness, Grant No. ECO2014-59262-P, is gratefully acknowle",
+      "intent": "funder"
+    },
+    {
+      "text": "ssistance. Financial support from the Spanish Ministry of Economy and Competitiveness, Grant No. ECO2014-59262-P, is gratefully acknowledged. B Rafae",
+      "intent": "funder"
+    },
+    {
+      "text": "ng We acknowledge support by Deutsche Forschungsgemeinschaft (DFG) and Open Access Publishing Fund of Osnabrück University. Author details E-mail: mfr",
+      "intent": "funder"
+    },
+    {
+      "text": "nowledgments The authors would like to acknowledge the Ministry of Higher Education of Malaysia and The University of Malaya, Kuala Lumpur, Malaysia, ",
+      "intent": "funder"
+    },
+    {
+      "text": "al support under UM.C/HIR/ MOHE/ENG/06 (D000006-16001) and Exploratory Research Grant Scheme (ERGS) with reference number ERGS/1/2013/ TK07/UNITEN/01/",
+      "intent": "funder"
+    },
+    {
+      "text": "n in business networks). The research project was funded by the Research Council of Norway and co-funded by four regional funds, as well as resources ",
+      "intent": "funder"
+    },
+    {
+      "text": "nding The research reported in this article was funded by the Research Council of Norway, Programme for Regional R&D and Innovation (VRI), and by the ",
+      "intent": "funder"
+    },
+    {
+      "text": "CIN) research project. The research project was funded by the Research Council of Norway within the Instruments of Regional R&D and Innovation (VRI) p",
+      "intent": "funder"
+    },
+    {
+      "text": "work with a particular buyer. Acknowledgments: Financial support from the NSF under grant SES-1343380 is gratefully acknowledged. I also thank two ano",
+      "intent": "funder"
+    },
+    {
+      "text": "ar buyer. Acknowledgments: Financial support from the NSF under grant SES-1343380 is gratefully acknowledged. I also thank two anonymous referees for ",
+      "intent": "funder"
+    },
+    {
+      "text": "RO-COHEiSION Ghana project (2014). This project was funded by The Netherlands government through the of Ministry Foreign Affairs and the Science for G",
+      "intent": "funder"
+    },
+    {
+      "text": "anisation for Scientific Research (NWO), under the Global Health Policy and Systems Research (GHPHSR) programme (Funding/grant number: W07.45.104.00).",
+      "intent": "funder"
+    },
+    {
+      "text": "at were funded by International Development Research Centre (IDRC)/Australian Centre for International Agricultural Research (ACIAR). Author details E",
+      "intent": "funder"
+    },
+    {
+      "text": "tivities. The authors acknowledge the financial assistance received from IDRC under the CultiAF project to carry out “Precooked Bean” Project Activiti",
+      "intent": "funder"
+    },
+    {
+      "text": "an earlier version of this paper. Funding The research was supported by CultiAF project as part of “Precooked Bean” Project Activities in East Africa ",
+      "intent": "funder"
+    },
+    {
+      "text": "ing to these results has received funding from the European Community’s Seventh Framework Programme (FP7/2007–2013) under grant agreement no. 290752. ",
+      "intent": "funder"
+    },
+    {
+      "text": "e research leading to these results has received funding from the European Community’s Seventh Framework Programme (FP7/2007–2013) under grant agreeme",
+      "intent": "funder"
+    },
+    {
+      "text": " received funding from the European Community’s Seventh Framework Programme (FP7/2007–2013) under grant agreement no. 290752. The funding agency had n",
+      "intent": "funder"
+    },
+    {
+      "text": "ding to these results has received funding from the European Community’s Seventh Framework Programme (FP7/2007–2013) under grant agreement no. 290752.",
+      "intent": "funder"
+    },
+    {
+      "text": "ng This work was supported by Eesti Teadusagentuur [grant number IUT20-49] and European Union Seventh Framework Programme [grant number 613256]. Notes",
+      "intent": "funder"
+    },
+    {
+      "text": " Acknowledgments: We gratefully acknowledge support by the ETHFoundation and SNFGrant 149879. Author Contributions: All authors contributed equally to",
+      "intent": "funder"
+    },
+    {
+      "text": "the project “Disentangling absence patterns”, financed by the Norwegian Research Council (grant # 227103/H20), and the project “Work Life Challenges—w",
+      "intent": "funder"
+    },
+    {
+      "text": "sponsible editor: Juan Jimeno Funding The development and execution of the survey was financed by The Norwegian Ministry of Labour and Social Affairs.",
+      "intent": "funder"
+    },
+    {
+      "text": "tribution. Acknowledgments: The authors acknowledge support from ARC Grant DP140100673. Comments from two referees and the editor have led to substant",
+      "intent": "funder"
+    },
+    {
+      "text": "nish mortgage market. Acknowledgments: This research has been supported by the Danish Council for Strategic Research (DSF), under Grant No. 10-092299.",
+      "intent": "funder"
+    },
+    {
+      "text": "he preparation of the econometric model. Funding from the US Environmental Protection Agency was instrumental in developing the continuous-time versio",
+      "intent": "funder"
+    },
+    {
+      "text": "ported by JSPS Kakenhi Grant Number 17KO3637 (Fujii) 26705004 (Osaki) and The Focused Research of Osaka Sangyo University (Fujii and Osaki). Authors’ ",
+      "intent": "funder"
+    },
+    {
+      "text": "er versions of this paper. Funding This work was partly supported by JSPS Kakenhi Grant Number 17KO3637 (Fujii) 26705004 (Osaki) and The Focused Resea",
+      "intent": "funder"
+    },
+    {
+      "text": "Bayer Crop Science AG, the European Commission (FOODSECURE research project), and the Federal Ministry for Economic Cooperation and Development of Germany",
+      "intent": "funder"
+    },
+    {
+      "text": "ding The authors acknowledge the Research grant from Higher Education Commission (HEC) of Pakistan for funding this research under HEC-NRPU Research P",
+      "intent": "funder"
+    },
+    {
+      "text": " Funding This research is supported by the startup fund from City University of Hong Kong. Authors’ contributions Both authors contributed equally. Bo",
+      "intent": "funder"
+    },
+    {
+      "text": "er level. Funding This research is supported by the startup fund from City University of Hong Kong. Authors’ contributions Both authors contributed eq",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This work was supported by the Laboratoire de Recherche en Economie, Management et Finance Quantitative. Author details Wiem Ben Jabra1 E-mail",
+      "intent": "funder"
+    },
+    {
+      "text": " and suggestions. Funding This work was supported by the Laboratoire de Recherche en Economie, Management et Finance Quantitative. Author details Wiem",
+      "intent": "funder"
+    },
+    {
+      "text": "ommunity Framework Programme. Zbigniew Palmowski kindly acknowledges the support from the National Science Centre under the grant 2015/17/B/ST1/01102.",
+      "intent": "funder"
+    },
+    {
+      "text": "Fellowship within the 7th European Community Framework Programme. Zbigniew Palmowski kindly acknowledges the support from the National Science Centre ",
+      "intent": "funder"
+    },
+    {
+      "text": "ahuc Funding This study was partially funded by the Dutch Ministry of Social Affairs and Employment. Availability of data and materials The paper is b",
+      "intent": "funder"
+    },
+    {
+      "text": "ents Jie Mao acknowledges financial support from the National Natural Science Foundation of China (grant number: 71573038). We are grateful to advices",
+      "intent": "funder"
+    },
+    {
+      "text": "wledgements The authors would like to thank Department of Science and Technology (DST), Government of India for the financial support (DST/TSG/WM/2015",
+      "intent": "funder"
+    },
+    {
+      "text": " to generalize the findings. Funding This work was supported by the Asare Yaw Obeng [175476288]. Author details Asare Yaw Obeng1 ORCID ID: http://orci",
+      "intent": "funder"
+    },
+    {
+      "text": "approval and consent to participate TREE was funded by the Swiss National Science Foundation, BSLS 2014 was supported by the Swiss Agency for Developm",
+      "intent": "funder"
+    },
+    {
+      "text": "y provider. Funding This contribution was supported by the Swiss National Science Foundation within the research project ‘Educational systems and gend",
+      "intent": "funder"
+    },
+    {
+      "text": "e y−ν(T−t) √ T−t \u0016 . Funding This work is supported by Research Grants Council of Hong Kong under grant no. 519913 and 15224215, and National Natura",
+      "intent": "funder"
+    },
+    {
+      "text": " info@ies.be www.ies.be This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreem",
+      "intent": "funder"
+    },
+    {
+      "text": "ww.ies.be This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 693799.",
+      "intent": "funder"
+    },
+    {
+      "text": "d funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 693799. Case Study Science and Innovation ",
+      "intent": "funder"
+    },
+    {
+      "text": "stralasian Meeting. Mardi Dungey acknowledges funding from Australian Research Council (ARC) grant DP130100168. Author Contributions: The three author",
+      "intent": "funder"
+    },
+    {
+      "text": "n Meeting. Mardi Dungey acknowledges funding from Australian Research Council (ARC) grant DP130100168. Author Contributions: The three authors contrib",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This research has been supported by the National Natural Science Foundation of China (71571139 and 71171153). Authors’ contribution XH contrib",
+      "intent": "funder"
+    },
+    {
+      "text": "peer punishment alone. Acknowledgments T.S. was supported by the Austrian Science Fund (FWF): P27018-G11. I.O. acknowledges support by Grants-in-aid f",
+      "intent": "funder"
+    },
+    {
+      "text": "by Grants-in-aid for Scientific Research from the Japan Society for the Promotion of Science 26330387. X.C. was supported by the National Natural Scie",
+      "intent": "funder"
+    },
+    {
+      "text": "0 from the Faculty of Psychology, University of Warsaw, JO and by a grant BMN2015 from the Collegium of World Economy, Warsaw School of Economics, AK.",
+      "intent": "funder"
+    },
+    {
+      "text": "BMN2015 from the Collegium of World Economy, Warsaw School of Economics, AK and by a grant 2015/19/ B/HS6/01633 from the National Science Centre, Poland, JO",
+      "intent": "funder"
+    },
+    {
+      "text": " Andreas Niemeyer acknowledges the financial support of the Deutsche Forschungsgemeinschaft (Research Grant: Regulation in the Financial Services Indu",
+      "intent": "funder"
+    },
+    {
+      "text": " urban areas” sponsored by the Ministry of Education of China Humanities and Social Sciences Research Youth Project Fund [Project number 14YJC630042].",
+      "intent": "funder"
+    },
+    {
+      "text": " “Wellbeing and quality of life of minority families migrating from rural to urban areas” sponsored by the Ministry of Education of China Humanities and Social Sciences Research Youth Project Fund",
+      "intent": "funder"
+    },
+    {
+      "text": "Wellbeing and quality of life of minority families migrating from rural to urban areas” sponsored by the Ministry of Education of China Humanities and Social Sciences Research Youth Project Fund",
+      "intent": "funder"
+    },
+    {
+      "text": "y technology. Acknowledgments This research was funded by the National Science Foundation (grant #1257138). We are indebted to Karen Cook, Rense Corte",
+      "intent": "funder"
+    },
+    {
+      "text": " T. Acknowledgments: This work was supported by the National Natural Science Foundation of China (No.11571189). Author Contributions: The two authors",
+      "intent": "funder"
+    },
+    {
+      "text": "ng the paper. Funding The study was fund by the College of Banking and Financial Studies (CBFS) in Oman, as part of the Research Grant Scheme. Authors",
+      "intent": "funder"
+    },
+    {
+      "text": "s. Acknowledgement The authors would like to thank the College of Banking and Financial Studies for the research grant provided for completing the pap",
+      "intent": "funder"
+    },
+    {
+      "text": " of Banking and Financial Studies (CBFS) in Oman, as part of the Research Grant Scheme. Authors’ contributions All authors contributed extensively to ",
+      "intent": "funder"
+    },
+    {
+      "text": " in Taiwan. Funding The project is supported by the Universiti Sains Malaysia’s Research University Grant (1001/PJJAUH/816268). Availability of data a",
+      "intent": "funder"
+    },
+    {
+      "text": " Taiwan. Funding The project is supported by the Universiti Sains Malaysia’s Research University Grant (1001/PJJAUH/816268). Availability of data and ",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding: BASE received financial support from the Max Planck Society, the Free University Berlin, the 1 Lipid Clinic at the Interdisciplinary Metabol",
+      "intent": "funder"
+    },
+    {
+      "text": "estions. Responsible Editor: Denis Fougère. Funding This study was partially funded by Florida International University, Dissertation Year Fellowship.",
+      "intent": "funder"
+    },
+    {
+      "text": "ic Vermeulen gratefully acknowledges financial support from the Research Fund KU Leuven through the Grant STRT/12/001 and from the FWO through the Gra",
+      "intent": "funder"
+    },
+    {
+      "text": "ram De Rock gratefully acknowledges the European Research Council (ERC) for his starting Grant 263707. Part of this research is also funded by BELSPO.",
+      "intent": "funder"
+    },
+    {
+      "text": "ges financial support from the Research Fund KU Leuven through the Grant STRT/12/001 and from the FWO through the Grant G057314N. B Frederic Vermeule",
+      "intent": "funder"
+    },
+    {
+      "text": "eful comments on earlier drafts. van de Ven thanks the Melbourne University Faculty Grant scheme for funding. Voitchovsky thanks the Swiss National Sc",
+      "intent": "funder"
+    },
+    {
+      "text": "(HCD Economics) for reviewing the manuscript drafts. Funding This study was funded by Novo Nordisk. Publication was not contingent upon study results.",
+      "intent": "funder"
+    },
+    {
+      "text": "project supported by the Scientific Grant Agency of the Ministry of Education, Science, Research and Sport of the Slovak Republic 1/0986/15 Proposal o",
+      "intent": "funder"
+    },
+    {
+      "text": " by the Scientific Grant Agency of the Ministry of Education, Science, Research and Sport of the Slovak Republic 1/0986/15 Proposal of the dimensional",
+      "intent": "funder"
+    },
+    {
+      "text": "ern seriously. Acknowledgments This project was funded by the Research Council of Norway, grant number 193703. While carrying out this research, the a",
+      "intent": "funder"
+    },
+    {
+      "text": "unding The authors would like to acknowledge funding from the Australian Research Council under Discovery Project Grant DP0986306. Publisher’s Note S",
+      "intent": "funder"
+    },
+    {
+      "text": "owledge funding from the Australian Research Council under Discovery Project Grant DP0986306. Publisher’s Note Springer Nature remains neutral with r",
+      "intent": "funder"
+    },
+    {
+      "text": " resolved. Funding This work is supported by the grant of Natural Science Foundation of China [grant numbers 71301021 and 71431002]. Author details E-",
+      "intent": "funder"
+    },
+    {
+      "text": "er is based on a study that was funded by the Dutch Ministry of Economic Affairs, Agriculture and Innovation (KB-16002.05-001). The contribution of Fr",
+      "intent": "funder"
+    },
+    {
+      "text": "ur Dutch Technological Top Institutes that was funded by the Ministry of Economic Affairs in order to stimulate excellent fundamental research with co",
+      "intent": "funder"
+    },
+    {
+      "text": "ss of our results. Funding This study was supported by a grant-in-aid from Zengin Foundation for Studies on Economics and Finance [grant number 1002].",
+      "intent": "funder"
+    },
+    {
+      "text": "ticle was funded by the German Federal Ministry of Education and Research and by the European Social Fund of the European Union (FKZ 01FP1072/73, rese",
+      "intent": "funder"
+    },
+    {
+      "text": "Federal Ministry of Education and Research and by the European Social Fund of the European Union (FKZ 01FP1072/73, research project ‘‘Selection and As",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This research was supported by the Volkswagen Foundation within the project ‘The Global Food Crisis – Impact on Wheat Markets and Trade in the",
+      "intent": "funder"
+    },
+    {
+      "text": " the National Institute of Mental Health, and supported by the Duke University Center for AIDS Research (CFAR), an NIH funded program (5P30 AI064518).",
+      "intent": "funder"
+    },
+    {
+      "text": "es in the market. Funding This work was supported by National Natural Science Foundation of China (NSFC) [grant number 71572033, 71172174]. Author det",
+      "intent": "funder"
+    },
+    {
+      "text": "Joni Hersch Funding This research was supported by an Australian Research Council Discovery grant (DP140102614). Availability of data and materials Th",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgements This paper is supported by National Natural Science Foundation, an innovation study of local governance in externally oriented region",
+      "intent": "funder"
+    },
+    {
+      "text": "NSF Grant CNS-0846065, NSF Grant CNS-1513575, the Bill and Melinda Gates Foundation Grant OPP1140486, the Short-Dooley Professorship, and Google Research Grant 2-378512",
+      "intent": "funder"
+    },
+    {
+      "text": "ch is supported by the Research Project 12DDB012 from Jiangsu Social Science Research Foundation, and partially supported by grants from National Natu",
+      "intent": "funder"
+    },
+    {
+      "text": "ding This research is supported by the Research Project 12DDB012 from Jiangsu Social Science Research Foundation, and partially supported by grants fr",
+      "intent": "funder"
+    },
+    {
+      "text": "tal areas in Ghana and Indonesia” (NRF), which was funded by the Volkswagen Foundation (2014–2017). F. HILLMANN ET AL. 7. That is, in the nearby towns",
+      "intent": "funder"
+    },
+    {
+      "text": "comments that improved the paper considerably. We gratefully acknowlege financial support by the “Bundesministerium für Bildung und Forschung” (BMBF).",
+      "intent": "funder"
+    },
+    {
+      "text": "Funding This work was supported by the Volkswagen Foundation through the MATRACC project ‘The Global Food Crisis – Impact on Wheat Markets and Trade i",
+      "intent": "funder"
+    },
+    {
+      "text": "nowledgement This study has been supported by the Bundesministerium für Bildung und Forschung (BMBF). MK, JZ and JMS, who are authors, are employees o",
+      "intent": "funder"
+    },
+    {
+      "text": "rt of the project ACCEPT, which was funded by the German Federal Ministry for Education and Research (grant number 01LA1112A). Furthermore, we acknowl",
+      "intent": "funder"
+    },
+    {
+      "text": "number 01LA1112A). Furthermore, we acknowledge funding by the German Research Foundation (DFG Priority Program 1689, Climate Engineering) within the p",
+      "intent": "funder"
+    },
+    {
+      "text": "s research is part of a research project funded by the Taiwan Ministry of Science and Technology [MOST 104-2410-H-309-011-]. The preliminary results o",
+      "intent": "funder"
+    },
+    {
+      "text": "that other researchers would not have. Funding: This work was supported by the European Research Council, Project INTERACT, Grant Agreement n. 639284.",
+      "intent": "funder"
+    },
+    {
+      "text": "f interest was reported by the authors. Funding This work was supported by Jacobs Foundation [grant number 2013-1063]. References Akerlof, G. A. 1970.",
+      "intent": "funder"
+    },
+    {
+      "text": "Acknowledgments The authors thank the Jacobs Foundation for supporting this research as part of the ‘Early Childhood Education and Care Quality in the",
+      "intent": "funder"
+    },
+    {
+      "text": "v.H. and C.K. Funding: This work was supported by the German Ministry for Education and Research (BMBF) under grant number 01LN1704A for the research ",
+      "intent": "funder"
+    },
+    {
+      "text": "e German Ministry for Education and Research (BMBF) under grant number 01LN1704A for the research group CoalExit and under grant number 01LA1810A for ",
+      "intent": "funder"
+    },
+    {
+      "text": "n in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and in",
+      "intent": "no_funder"
+    },
+    {
+      "text": "the ailments of war in the nation, however, are boldly supported by the government. Activities such as providing mainstream microfinance and social su",
+      "intent": "no_funder"
+    },
+    {
+      "text": "out the household finances although very often help is provided from other members to answer individual specific information. The survey is administer",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Grahama and Harveya provided evidence to support the pecking-order and trade-off capital structure hypotheses but little evidence that executives are ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "outside the green line separating the West Bank from “Israel.” The Palestinian authority (through donor funding) started programs to support agricultu",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ons, new product development, startups, and budgetary support from local governments (Bekkers and Bodas Freitas 2008). Patents: the number of patent a",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ment hub by providing a network for business collaboration. Local governmental institutions employed project coordinators and provided research funds ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Further evidence for this finding is provided by the variable Low Capital, which is positive and statistically significant at 10% in hybrid instrument",
+      "intent": "no_funder"
+    },
+    {
+      "text": " this paper, but encouraged. Acknowledgements We thank the Directorate of Health in Iceland for providing the data. Funding We are grateful for having",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ralized linear model Acknowledgments We gratefully thank Ilka Schlitter and Laith Al-Sayegh for their support in collecting the patient level cost da",
+      "intent": "no_funder"
+    },
+    {
+      "text": " we propose to reimburse telemedically supported case management by sickness funds in a routine manner. Political action is needed in order to unlock ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t consistent across countries. This notion finds support in Ginsburgh and Prieto-Rodriguez (2011), who use international comparable data from the 1994",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tem in Ghana (COHEiSION) Project which is funded by the Netherlands Ministry of Foreign Affairs and the Science for Global Development (WOTRO), under ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Project which is funded by the Netherlands Ministry of Foreign Affairs and the Science for Global Development (WOTRO), under the Global Health Policy",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tate government. BIUFF was created with funding coming from the Niterói city government, but the support did not continue, partly explaining its cycle",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nal Development Plan With significant support from international organizations and bilateral donors, the Government of Iraq has recently designed a Na",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rsing home faced a dilemma (Kvalnes, 2017). On a hot summer’s day, a local fisherman provided the leader with an offer of free fresh mackerel to serve",
+      "intent": "no_funder"
+    },
+    {
+      "text": "98), but based on the Birnbaum–Saunders distribution, are attributed to Bhatti (2010); Leiva et al. (2014) and Saulo et al. (2018). In these works, hi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "considering the term 2ð1 \u0003 kð yÞÞ we observe that the subsidy from the manufacturer must be constrained to be kð yÞ 2 ½0; 1Þ. This is because by letti",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n advertising with advertising support in the form of subsidy from the manufacturer. Other recent works on cooperative advertising include He et al. (",
+      "intent": "no_funder"
+    },
+    {
+      "text": "highly technical innovations). Acknowledgements The author thanks Prof. Richard Owen for his invaluable guidance, supervision and proof-reading suppor",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n 2012, and it has since undergone several revisions commissioned by the IHPA [50]. Each ED presentation was coded to a URG using the triage category,",
+      "intent": "no_funder"
+    },
+    {
+      "text": ", M., Kurowska, A., & Kundera, M. (2013). Financial support for families with children and its trade-offs: Balancing redistribution and parental work ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "z, Ronald Lee, and Alexia Prskawetz for fruitful discussions and Meritxell Sole Joves for her research assistance. We also thank Diego Ramiro, David R",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ees consequently became entirely dependent on the support of international donors and NGOs during their stay in Tanzania (Harild et al. 2015). Fig. 1 ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rimary schools in refugee camps in north-western Tanzania were funded by UNHCR, which paid for teacher salaries (Amnesty International 2005). It is es",
+      "intent": "no_funder"
+    },
+    {
+      "text": "vestments on education), those in neighbouring countries, and particularly those who resided in camps in Tanzania, had access to UNHCR-funded schools.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "education facilities, often provided for and/or financed by NGOs or international agencies (United Nations Educational, Scientific and Cultural Organi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ies indicate that the tax refund is the most effective policy and the categorical grant is more efficient than condition grant. Conclusions: The China",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ith whom we have had less heated debates including anonymous reviewers and the editor. Lehrer also would like to thank SSHRC for the research support.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "bying did not increase the probability of gaining more support from the government in comparison to the firms that did not use any lobbying techniques",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Lee and Baik (2010) noted that the disbursements provided by the U.S. government to the domestic firms in the anti-dumping petition were related to th",
+      "intent": "no_funder"
+    },
+    {
+      "text": "referably on the full universe of enterprises. For this, full support of policymakers, research organizations and data providers is required. Notes 1.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "uld therefore be very challenging and will need strong support from top leadership. Lantmännen, meanwhile, has different strategies depending on the t",
+      "intent": "no_funder"
+    },
+    {
+      "text": "he publication of this article was funded by the Open Access Fund of the Leibniz Universität Hannover. Responsible editor: Pierre Cahuc Funding The ec",
+      "intent": "no_funder"
+    },
+    {
+      "text": "elpful comments. The publication of this article was funded by the Open Access Fund of the Leibniz Universität Hannover. Responsible editor: Pierre Ca",
+      "intent": "no_funder"
+    },
+    {
+      "text": "om an international Micro Finance Institution named Bangladesh Rural Advancement Committee (BRAC). Respondents have been selected randomly based on th",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The SME owners who borrowed from BRAC, under the project “Progoti,”3 were sampled from different sub-areas. To collect the representative sample, stra",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ious if they could not find a job when they had graduated as most of their parents are willing to support them until they have found a job. 5. Recomme",
+      "intent": "no_funder"
+    },
+    {
+      "text": " but also in other factors, such as event frequency, support from big tech companies (like the first Cornell Tech course in Google’s office), and co-w",
+      "intent": "no_funder"
+    },
+    {
+      "text": "For this reason, the entrepreneur seeks support from family, friends, and other personal connections, who are part of a society and culture that influ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ibuted through agricultural development programs funded largely by the United States (Inthapanya et al. 2006). The Lao rejected the new varieties, pre",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ers do not pay for the training because they are funded by the state and the private sector; in the survey, 21% of farmers were only trained by a priv",
+      "intent": "no_funder"
+    },
+    {
+      "text": " them most. The only financial support available was from the Agricultural Promotion Bank, but to qualify for a loan farmers had to form a group of 10",
+      "intent": "no_funder"
+    },
+    {
+      "text": "perated. The DMFI was formally established in 2007 with support from the BAAC and working capital of 1 million baht. After ten years it continued to o",
+      "intent": "no_funder"
+    },
+    {
+      "text": " continues to be an important focus for the government. Support for rice producers remains central to the country’s socialist programme at the same ti",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Much of the domestic market was provided by the 40% of Northeast farmers who specialised in producing KDML105 rice for the export market and therefore",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Further support was provided through the United Nations Development Programme and FAO to strengthen linkages across the regional research stations (Ha",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Based on a 2012 decree, the government offers direct financial support of VND 500,000 per ha per year for farmers on specialised paddy land and VND 10",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ster’s thesis (Seansing 2009). The project was supported by the Thailand Research Fund. The villagers involved in the project learned how to conduct e",
+      "intent": "no_funder"
+    },
+    {
+      "text": "eceived significant financial backing from the Sierra Leone Government and international donor agencies [5, 6]. Furthermore, the FHCI was accompanied ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " German Research Foundation (DFG) under the project ‘Wage and employment effects of bankruptcies’. Disclosure statement No potential conflict of interest was reported by the authors. Funding This work was supported by the German Research Foundation",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Robert Wood Johnson Foundation; 2011 Feb. (The Synthesis Project: New Insights from Research Results). Report No. : Research Synthesis Report No. 21. ",
+      "intent": "no_funder"
+    },
+    {
+      "text": ". (2016) identified financial users who were invited and certified by Sina Weibo as “celebrities.” Through event study analysis, the authors determine",
+      "intent": "no_funder"
+    },
+    {
+      "text": "\u0007 ethodology 9.3.1 \u0007Experimental Design In 2014, with the support of USAID-BASIS fund a randomized control trials (RCT) study was undertaken by the O",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rty and Economic Policy (PEP) network supported by the Community-­Based Monitoring System (CBMS) on the theme: “the willingness to pay by Togolese inf",
+      "intent": "no_funder"
+    },
+    {
+      "text": "oms in Niger charge about N300 per 100 kg bag. This money is paid to transporters who in turn pay the money to customs and other officials at the bord",
+      "intent": "no_funder"
+    },
+    {
+      "text": "retailing and whole sale activity. 66.6% of the traders belong to traders association and the benefits provided by the association are loans to trader",
+      "intent": "no_funder"
+    },
+    {
+      "text": "arvest. In contrast, Balami, Ogboru, and Talba (2011) find that big time cereal traders in Nigeria give cash to their partners in Niger, at the time o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t is performed by the husbands. We focus on the nature of the support married men provide by performing household chores. Specifically, we examine whe",
+      "intent": "no_funder"
+    },
+    {
+      "text": "With assistance from Intage, Inc., the first wave of the survey was administered in 2012, and the second wave was administered in 2014. The survey tar",
+      "intent": "no_funder"
+    },
+    {
+      "text": " , TVaRα,s∗ ( Xnj ; S) \\j \\j where TVaRα,s∗ ( Xij ; S) is given by Proposition 4. \\j 4.2. Orthogonal Projection Based on the Multivariate Lower Ort",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The South East Wales Trials Unit (SEWTU) is funded by the Wales Assembly Government through Health and Care Research Wales and the authors gratefully ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "In commissioning the trial, the Department of Health Policy Research Programme that funded the trial specified inclusion of prenatal tobacco use, chil",
+      "intent": "no_funder"
+    },
+    {
+      "text": "s represent an ex-ante precondition for receiving support from the structural funds. Thus, most nations and regions in Europe started implementing sma",
+      "intent": "no_funder"
+    },
+    {
+      "text": ". Cognitive network structure: An experimental study. Adv. Complex Syst. 2012, 15, 1250084. c 2017 by the authors; licensee MDPI, Basel, Switzerland.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "τ )dτ |Ft1 duds, represents the continuous annuity payment made by the government to the individual who is alive but is permanently unemployed/disabl",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Hope (Shao, H 2013). The approval of the private banks marks the Chinese government’s latest efforts to deepen financial reform and support the count",
+      "intent": "no_funder"
+    },
+    {
+      "text": "AliFinance provided loans to SMEs online since 2010. By 2014 the amount of loan has totaled more than 150 billion yuan, benefiting more than one milli",
+      "intent": "no_funder"
+    },
+    {
+      "text": "et, and Complexity (2017) 3:6 (Internal) prototype production was supported by the Foundation Club activity, which was supported by the LINK project.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "one in the “laboratory resident” activity, which was supported by the ACE project. The laboratory activities created an environment for coming up with",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t Seoul Coex, which was held by the support of several Korean government institutions and organizations, where creative economic activities mainly occ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "er of the third project and the last project are respectively Zhu Huiming and Ma Chaoqun, two professors of Business Administration School of Hunan Un",
+      "intent": "no_funder"
+    },
+    {
+      "text": "enges are emerged.” Acknowledgements The authors wish to thank their interview partners for their kind support. Special thanks to the company BU Drive",
+      "intent": "no_funder"
+    },
+    {
+      "text": "This financial support paid for the salary of Joost Bollens while he was employed at the Research Institute for Work and Society (HIVA) of the KU Leuv",
+      "intent": "no_funder"
+    },
+    {
+      "text": "xes while emissions adjust only if you provide incentives to the responsible managers. Moreover, we find that taxes on wealth such as property taxes h",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ng adoption. Enabling Regulatory Environment factor was supported by Yousif et al. (2013), Khattab et al. (2012); Ismail and Osman (2012), Ayana (2014",
+      "intent": "no_funder"
+    },
+    {
+      "text": "eported by the authors. Funding This work was supported by Grantová Agentura České Republiky [Grant Number Project 17-10543S]; LeibnizGemeinschaft [Gr",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ant for some members, were insuﬃcient to remobilise support from the United States for the DDA (Financial Times 2015, New York Times Editors 2016). Ov",
+      "intent": "no_funder"
+    },
+    {
+      "text": " our own. The authors would like to acknowledge funding by the Czech Science Foundation project 1710543S ‘Global bureaucracy: The politics of internat",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tthew Stephen further acknowledges the support of a Leibniz Foundation Senate Competition Committee grant ‘Contested World Orders’ (SAW-2012-WZB-3). M",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t: H3: Those who are more likely to provide intensive support to their parents(-in-law) are also more likely to support downward generations. Data, Sa",
+      "intent": "no_funder"
+    },
+    {
+      "text": "cent of those who offer informal help to the latter also support their parents(-in-law). Additionally, looking at the potential risk of being involved",
+      "intent": "no_funder"
+    },
+    {
+      "text": "This could be related to leadership support for innovation: The leader acts in a friendly way to innovative employees and provides actual help if prob",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ed in the USA over the course of 2015 that was given to household members who remained in Haiti, and dividing the resulting sum by 12. For those in Ha",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t GRAPE Gender Gaps Conference for their helpful comments and suggestions and Victor Sulla and Caterina Ruggeri Laderchi for their managerial support.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ffort but just a change in approach in NICUs and appropriate support to parents. More research is needed on the health and economic outcomes associate",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Financial support from Banco de España (Research Excellence Grant) is gratefully acknowledged. The usual disclaimer applies. The views expressed in th",
+      "intent": "no_funder"
+    },
+    {
+      "text": "processes and decisions. Funding This work was supported by the Bana väg för framtiden Author details E-mail: kornevs@kth.se ORCID ID: http://orcid.or",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rk within the procurement process. With the support of the Swedish Transport Administration and some other organisations, participants for the experim",
+      "intent": "no_funder"
+    },
+    {
+      "text": ", the Voting Information Project in the United States, funded by Pew Charitable Trusts, International IDEA’s democratic accountability efforts, or the",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Long, and M. Lisiecki for support of this research. For comments on the project, we especially thank the commentators at a daylong workshop at Duke Un",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ional Science Foundation of China (Grant no. 41271542). The publication of this article was funded by the Open Access Fund of the Leibniz Association.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " parents’ financial resources—usually measured by earnings—on their children’s socioeconomic outcomes net of education (Bukodi et al., 2014; Erola et al., 2016). Ranging from private tutoring to financing a university education, economic resources enable parents",
+      "intent": "no_funder"
+    },
+    {
+      "text": "elivering specific knowledge to the project. The project is financed by the EU.’ These citations show that larger enterprises typically focus on their",
+      "intent": "no_funder"
+    },
+    {
+      "text": "In the offshore wind energy context, governmental bodies provide subsidies to offshore wind parks for support of investments in the area. The amount o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "f the aim for innovation and competitiveness of offshore wind energy? Governments have declared and taken actions to support the goal of achieving sus",
+      "intent": "no_funder"
+    },
+    {
+      "text": "s developed at RAND with funding from the National Institute on Aging and the Social Security Administration. See RAND (2013). The original Health and",
+      "intent": "no_funder"
+    },
+    {
+      "text": "r the Study of Aging, with funding from the National Institute on Aging and the Social Security Administration, Santa Monica, CA Rust J, Phelan C (199",
+      "intent": "no_funder"
+    },
+    {
+      "text": "the Study of Aging, with funding from the National Institute on Aging and the Social Security Administration, Santa Monica, CA Rust J, Phelan C (1997)",
+      "intent": "no_funder"
+    },
+    {
+      "text": "stributed by the University of Michigan with funding from the National Institute on Aging (grant number NIA U01AG09740). Ann Arbor, MI, (2014). In the",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on (Studentenwerk). It is funded and released by the German Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, B",
+      "intent": "no_funder"
+    },
+    {
+      "text": "doctor’s fees, and expenditure for drugs. Financial support from parents or a partner includes support in cash, payments to third parties, and contrib",
+      "intent": "no_funder"
+    },
+    {
+      "text": " by analyzing the effects on working time, financial support from parents and partner (dummy), financial resources from parents, and taking out a loan",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ffect of replacing supplementary grants for students in the Netherlands by loans. They emphasize the important role of financial support from parents.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ncreased the share of students who receive financial support from parents or partners significantly by 3 percentage points.11 The share of students wh",
+      "intent": "no_funder"
+    },
+    {
+      "text": "the different potential for substitution for informal care. While a functional spouse will provide support with personal care, he or she will hardly b",
+      "intent": "no_funder"
+    },
+    {
+      "text": "1). Ethics approval for this research was granted by the Health Sciences Research Ethics Board of the University of Toronto (Protocol Reference # 2751",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ns. For example, commercial banks could generalize the experience of the ICBC (Industrial and Commercial Bank of China), which gives preferential loan",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ages in the life course, in order to more effectively reduce health inequalities. Acknowledgements Open access funding provided by Max Planck Society.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "g Skattefunn projects at the firm level is facilitated by actors in various regional innovation support institutions as well as from R&D institutions.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " paper examines the regional distribution of support from the Norwegian Skattefunn scheme, which is a tax incentive scheme designed to stimulate R&D a",
+      "intent": "no_funder"
+    },
+    {
+      "text": " for the observed regional variation in R&D activity funded by the Skattefunn scheme, and we have focused on the following: Fig. 4 Skattefunn project",
+      "intent": "no_funder"
+    },
+    {
+      "text": " He has generated more than 70 research proposals funded by UK, EU government and industry and is co-author of around 180 refereed journal and confere",
+      "intent": "no_funder"
+    },
+    {
+      "text": "cknowledge the financial support of the International Development Research Centre and the MasterCard Foundation in undertaking this research. The pape",
+      "intent": "no_funder"
+    },
+    {
+      "text": "in most cases. Very few receive financial assistance from banks or microfinance institutions for either start-up or operating purposes. Yet, self-empl",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ing the impact of job training Programmes in Latin America: Evidence from IDB funded operations. J Dev Effectiveness. 2009;1(2):195–216. International",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Funding Part of this research was funded by the German Science Foundation (AN 210/10-1). Publisher’s Note Springer Nature remains neutral with regard",
+      "intent": "no_funder"
+    },
+    {
+      "text": "wendung in Deutschland” (AN 210/10-1), which was funded by the German Science Foundation. Competing interests The author declares that he has no compe",
+      "intent": "no_funder"
+    },
+    {
+      "text": "f Empirical Educational Research funded by the German Federal Ministry of Education and Research (BMBF) from 2008 to 2013. As of 2014, NEPS is carried",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on of Empirical Educational Research funded by the German Federal Ministry of Education and Research (BMBF) from 2008 to 2013. As of 2014, NEPS is car",
+      "intent": "no_funder"
+    },
+    {
+      "text": "is work is financed by the Austrian Science Fund (FWF) project no. P26289-N23. The authors would like to thank the SBA staff for support with the eval",
+      "intent": "no_funder"
+    },
+    {
+      "text": "en Erzählung der deutschen Internetpolitik sein, die das Politikfeld in seiner Gänze beleuchtet. Funding Open Access funding provided by Projekt DEAL.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "the absence of financial resources that should be provided by health insurance companies. Currently, the Slovak economy and the related health system ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Acknowledgment The authors acknowledge the financial support of the National Science Center (NCN), Poland, project no. 2014/13/B/HS4/00209 entitled.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "as poor people are expected to engage in non-agricultural jobs with a probability of 0.77 (costs of migration and the support of migration networks2).",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Progressive cities welcome the international climate efforts and vie in the creation of green urban ecosystems whose leitmotif is the urban oasis: a m",
+      "intent": "no_funder"
+    },
+    {
+      "text": "structure. Overall, our findings suggest that the financing provided by suppliers increases when the level of information asymmetry of a firm is highe",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Therefore, the financing provided by suppliers is the main source of the short-term financing of our sample’s firms. This result is in line with the e",
+      "intent": "no_funder"
+    },
+    {
+      "text": "dependence on shortterm financing, especially on financing provided by suppliers. According to Niskanen and Niskanen (2000), we also report that those",
+      "intent": "no_funder"
+    },
+    {
+      "text": "barriers and paid for both wages and support services, using for placement contractors who received incentive payments (Washington State Institute for",
+      "intent": "no_funder"
+    },
+    {
+      "text": "es an appealing approach. Acknowledgments: Institutional support to Barbora Peštová was provided by RVO:67985807. The research of Michal Pešta was sup",
+      "intent": "no_funder"
+    },
+    {
+      "text": " National Research Foundation [grant number 110371]. Acknowledgements The authors would like to thank Dr Christian Tipoy, Adebayo Kutu, Simiso Msomi and all other members of the UKZN Macroeconomics Working Group (MWG) for their meaningful contributions. Financial Support from National Research Foundation",
+      "intent": "no_funder"
+    },
+    {
+      "text": "supported by a 2001 law granting every employee in Germany the legal right to work part-time. The law also prohibits discrimination against part-time ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Basically, this information is a promise from the heads of local governments to the public when they were elected as the heads of the region. On the o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "istrative and financial support provided by Yasmine Fahim, Aalaa Naguib, Sara Taraman, and Mohamed Youssri at the Economic Research Forum (ERF). This ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "P per capita and diversification shows support for the findings of Imbs and Wacziarg who per capita and diversification shows support for the findings",
+      "intent": "no_funder"
+    },
+    {
+      "text": "o per capita and diversification shows support for the findings of Imbs and Wacziarg (2003) who showed showed that diversification withinincrease in i",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ect eCoInnovate IT which is funded more than 1.77 million Euros by VolkswagenStiftung (www.ecoinnovateit.de). He is author of more than 260 papers in ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e through financial support measures by the Federal Ministry of Transport and Digital Infrastructure (BMVI) and through government sponsored funding p",
+      "intent": "no_funder"
+    },
+    {
+      "text": "a-Ata, USSR. Jointly sponsored by the World Health Organization (WHO) and United Nations Children's Fund (UNICEF), 6–12 September; 1978. 2. Morgan MN,",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nge based on practice in the field. New York: Acknowledge and The Rockefeller Foundation; 2013. 6. Baatiema L, Skovdal M, Rifkin S, Campbell C. Assess",
+      "intent": "no_funder"
+    },
+    {
+      "text": "m all of the medical services provided by UHCPs, even though the subsidy is collected from the entire nation, including agents with lower regret sensi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "arch Project) for partial funding of this research. Tobias Heimann, Christian Zimpelmann, and Ling Zhu provided valuable data and research assistance.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Closer friends of borrowers are more likely to help (pipe), endorsement of friends may dilute a third party’s lending (prism), and lenders are likely ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " is less likely to lend to a project that has received funding from its rival team, suggesting that rival teams tend to avoid cooperation. Conclusions",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rk was supported by the Laboratoire de Recherche en Economie, Management et Finance Quantitative. Author details Wiem Ben Jabra1 E-mail: wiem.bjabra@g",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e some good impact on these special enterprises. For one thing, the central government has a stronger executive power of taxation on them53 and gets m",
+      "intent": "no_funder"
+    },
+    {
+      "text": "s would like to thank Department of Science and Technology (DST), Government of India for the financial support (DST/TSG/WM/2015/466-G) and E-Parisara",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ents on earlier versions of the manuscript. We are also grateful to Benjamin Elbers, who provided his support for the calculation of the Mutual Inform",
+      "intent": "no_funder"
+    },
+    {
+      "text": "alaries of a core team. Any activity beyond that has to be funded by third parties. Hence, SWISSNEX offices must collaborate with external partners (o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "SIN is funded almost exclusively with public money from the FCO and BEIS. One cannot underestimate the FCO’s importance for the network. The ministry’",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nd detached personnel from the science ministry, who are supported by local staff. 3.3 Basic – Applied It is difficult to get a firm grasp on the appr",
+      "intent": "no_funder"
+    },
+    {
+      "text": "atives. SWISSNEX follows a similar approach, yet it is even more characterised by ad-hoc initiatives launched, and partly funded, by private partners.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "cordingly. A general precondition for such enterprises, funding by external partners needs to be available. Thus, it is little surprising that SWISSNE",
+      "intent": "no_funder"
+    },
+    {
+      "text": "one of Alipay’s clients. Yuebao is essentially a money fund under Tianhong Asset Management. However, this Tianhong Money Fund was originally unknown.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " fasten processes of HR practices, these views were supported by Ulrish et al. (2008) who confirmed in his study ICT permits professionals to spend le",
+      "intent": "no_funder"
+    },
+    {
+      "text": "dgements We thank the authorities of Mobile Telephone Network(MTN) Cameroon, Orange- Cameroon and CAMTEL Cameroon. Funding Funding was from personal c",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The government can also strengthen the role of business incubators, who provide great support to graduates in the form of start-up funding, location, ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ut the supportive programs for entrepreneurs provided by the government and private sector. The role of training is also important for influencing att",
+      "intent": "no_funder"
+    },
+    {
+      "text": ". BASE-II was funded by the German Federal Ministry of education and Research, BMBF the Max Planck Society, Munich, Germany. The funders had no role i",
+      "intent": "no_funder"
+    },
+    {
+      "text": "milian König, Johanna Drewelies, Ilja Demuth. Funding acquisition: Gert G. Wagner, Ulman Lindenberger, Elisabeth Steinhagen-Thiessen. Investigation: ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Acknowledgments We especially thank David Smith of the Australian Department of Immigration and Border Protection, whose help was instrumental in mak",
+      "intent": "no_funder"
+    },
+    {
+      "text": "g activities were supported by reforms to fast-track Employer Sponsored permanent migration visas. The set of reforms that have transformed the Austra",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Our acknowledgments also belong to the Ministry of Health of the Slovak Republic for its cooperation in creation of the new conceptions and methodolog",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Apart from winning the support of domestic industry lobby groups, unilateral BAMs are to some extent protective trade measures in climate policies tha",
+      "intent": "no_funder"
+    },
+    {
+      "text": " from research. In the background the knowledge development loop that was supported by the PPP called Top Team Horticulture and Propagation Materials.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "–Rodino Act of 1976, and the Federal Trade Commission. In addition, big businesses directly provide financial support or the nation activates various ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "hnology and society in various ways. For this, massive support from the government and strong financial support of large companies supported or built ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "; WHO: World Health Organisation Acknowledgements We acknowledge Mr. Sylvester Mensah and the NHIA for granting us the permission to use the NHIS admi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nagement is likely to deliberate the adoption of the HRIS applications as strategically important Financial support of the senior management Table 3.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "vey Project was initiated and is funded by the Australian Government Department of Social Services (DSS) and is managed by the Melbourne Institute of ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The organization of smart cities focuses on the support of government and policies for governance, and comprises various elements such as smart commun",
+      "intent": "no_funder"
+    },
+    {
+      "text": "may receive ﬁnancial help and other support resources from family members or networks abroad (Black et al. 2011, 32). The regional context is decisive",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on of the place of origin, for instance through the support of fellowships or orphanages. The narratives underscore that these transnational actions a",
+      "intent": "no_funder"
+    },
+    {
+      "text": "es. He and a partner started Ideaca in 2000, funded by the partners and the investment firm XDLi. Ideaca was a software-consulting company that provid",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e first SaaS rewards and social recognition company. It was backed by Sequoia VC and raised $35M in three venture capital rounds. He is the founder of",
+      "intent": "no_funder"
+    },
+    {
+      "text": "eived $6M in seed funding from Celtic House Venture Partners, Rho Cana Ventures, and Business Development Bank of Canada in 2013. Morin explained the ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "and are provided by the agricultural agency afﬁliated with Russia's Ministry of Agriculture (2016). Since price series for Russia are only available o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ed by the authors. Funding This work was supported by Bundesministerium für Bildung und Forschung [grant number 01LA1112A]; Deutsche Forschungsgemeins",
+      "intent": "no_funder"
+    },
+    {
+      "text": "lities of Energy: Extension of Accounting Framework and Policy Applications. Project Funded by the European Commission; Brussels: European Commission.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " towards all partner institutions within the program as well as the European Commission for their support. APPENDIX P.C. Assumptions for power genera",
+      "intent": "no_funder"
+    },
+    {
+      "text": "hröder, Spiess, and Storck (2015) show that financial contributions by families vary somewhat due to regional variation in subsidies and fee regulatio",
+      "intent": "no_funder"
+    },
+    {
+      "text": " supply, especially in Western Germany (Wrohlich 2008). However, two federal laws in 2005 and 2008 provided extra funding, granted prioritized access ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tute for Climate Impact Research and is funded by the ClimateWorks Foundateion and the German BMU via the International Climate Initiative.) was taken",
+      "intent": "no_funder"
+    },
+    {
+      "text": "by the ClimateWorks Foundateion and the German BMU via the International Climate Initiative.) was taken, split up by the German share of the global po",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ents Our acknowledgments belong to the Ministry of Health of the Slovak Republic and the Health Policy Institute for their cooperation and support in ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "school or pre-school hours, informal caregiving provided by grandparents or other relatives is by far the most widespread source of care, while only f",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Acknowledgements We thank the Ministry and Humboldt Foundation for their generous support, Sarra Ben Yahmed, Monika Gonser, Katrin Sommerfeld and Achi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Medical decisions that are made in favor of physicians’ financial benefit usually do not harm patients directly, as their effects are rather indirect:",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The USSR also justified its support of the Norwegian Foreign Minister for the office of President of the General Assembly on the basis of Norway’s ‘re",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rmers who do not have cash to pay for inputs (fertilizer and seed), the government has been providing credit guarantees to help lower trade-financing ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "We are very grateful to Juan Manuel del Pozo Seguro for the excellent research assistance support in relation to this work. We would also like to tha",
+      "intent": "no_funder"
+    },
+    {
+      "text": "an Agency for Technology and Standards (KATS) requested for support from MoST for relocating some of their research equipment. KEITI said that 30 of i",
+      "intent": "no_funder"
+    },
+    {
+      "text": ").105 Committees begin to frame their activities as reciprocating government or NGOs support.106 They make monthly contributions,107 raise funds from ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "hics approval for this study was provided by the National Health Research Ethics Committee of Nigeria. Participation was voluntary, based on the parti",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ess & Management (2018), 5: 1508543 Funding This research is supported by a grant from the Fundação para a Ciência e Tecnologia [UID/GES/00315/2013].",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ority of informants reported significant influence and support from their families on the formation of their businesses. For example, Informant 18 des",
+      "intent": "no_funder"
+    },
+    {
+      "text": " the majority of the informants had received financial support from their families, which was eased by the very low start-up costs of online home-base",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Funding from their family often included funding from their extended family in their country of origin and was without obligation, demonstrating the s",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ercome the growth limits of capitalism that can be supported by the United Nations. Sustainable Environment based global goals should be added to sust",
+      "intent": "no_funder"
+    },
+    {
+      "text": "as the required rule for all academic journals, and a support system from UN, and let us motivate open innovation at global level at the starting poli",
+      "intent": "no_funder"
+    },
+    {
+      "text": "sharing or renting in. Acknowledgment We are also thankful to the Haramaya University for its logistical support. Funding We are grateful to the Ethio",
+      "intent": "no_funder"
+    },
+    {
+      "text": "By contrast, the bank development indicators play a key role in funding a framework characterized by IBs. Both models contribute to economic growth. H",
+      "intent": "no_funder"
+    },
+    {
+      "text": "H and NLH persons in most Chinese jurisdictions is in eligibility for government-provided benefits and services, especially education and social insur",
+      "intent": "no_funder"
+    },
+    {
+      "text": "pull of stability and tradition with the adaptive push of transformation and change. Acknowledgments Research conducted with Government support (A.I.)",
+      "intent": "no_funder"
+    },
+    {
+      "text": "gramme, which had core funding from the Sin Migration (2016) 5:4 Foundation for Research, Science and Technology. Any views expressed are the sole ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The Government of Ghana has, in the past, financed subsidies through finances borrowed from the domestic financial market or through the printing of m",
+      "intent": "no_funder"
+    },
+    {
+      "text": "pulation, which was provided by poultry association of Nigeria (PAN) and Avian Influenza Control Project Office (AICP) in each of the selected states.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Because in these arrangements the leading enterprises are the guarantors for the SMEs, the credit levels of such counterparties are becoming important",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ness have not been solved. SCF can help an enterprise obtain funds from a bank. At the same time, SCF can help commercial banks expand their customer ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tions in transition—Challenges for new modes of rural governance in Thailand”, which was financially supported by the German Science Foundation (DFG).",
+      "intent": "no_funder"
+    },
+    {
+      "text": "degree, impede participation. Acknowledgements We thank the German Science Foundation (DFG) for their financial support (BU 1319/12-1 & TH 849/3-1). F",
+      "intent": "no_funder"
+    },
+    {
+      "text": "me degree, impede participation. Acknowledgements We thank the German Science Foundation (DFG) for their financial support (BU 1319/12-1 & TH 849/3-1)",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e energy sources (RES) was mainly made possible by to the German Renewable Energy Sources Act (EEG) [65] which lead to a significant increase of RES i",
+      "intent": "no_funder"
+    },
+    {
+      "text": "These internships were funded through matching grants to firms applying to the program in which the program would pay half the costs of the internship",
+      "intent": "no_funder"
+    },
+    {
+      "text": "d MONITOR (cf. [63]). MONITOR is the information portal of the Czech Ministry of Finance and allows free access to the budget and accounting informati",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n started in the project MODULUSHCA funded by the 7th Framework Programme of the European commission. Fifteen partners from research, logistics busine",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ntial. However, governmental structure of the firms, confronting (face) to the difficulty, receive some financial and credit help from the government.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " financial independence and brought with them a prolonged dependence on parents for financial, social and emotional support (Schoon and Bynner 2017). ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " a long waiting phase during which young people depend primarily on their families for support. Universalistic transition regimes, prevalent in Scandi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "datasets. The Ghana Statistical Service, supported by OR/IFC Macro and IFC International Company, collected all four rounds of the GDHS datasets. The ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Political change; need for world bank, International Monetary Fund and donor support; need to generate proceeds; precarious state of some public enter",
+      "intent": "no_funder"
+    },
+    {
+      "text": " control.” Research-based technology projects were often funded by research programs, while other complex technology projects without a research base ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "cknowledgements We greatly appreciate the financial support by Sheikh Mohammed Al-Fouzan Macroeconomic Forecasting Chair (SMF Chair) at Imam Universit",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ese currency parity against the dollar within a very narrow limit, the Central Bank offered high interest rates on Lebanese treasury bills. The cost o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n is not universally accepted; a contrary view is supported precisely by Finn (1996). 4 \u0007Capacity utilization rate and inflation The capacity of utili",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Acknowledgements Financial support from the International Science Programme (ISP) Sweden in collaboration with the Eastern African Universities Mathem",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Agilent accept or promote funding for doctoral research proposal from various IITs and IISc.10 LG has collaborated with IIT Delhi in 2008 for the deve",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t. 99, 454–457. Andreoni, J., and Miller, J. (2002). Giving according to GARP: an experimental test of the consistency of preferences for altruism. Ec",
+      "intent": "no_funder"
+    },
+    {
+      "text": "gher quality grain to meet the needs of the market. Therefore, the Brazilian government should design a policy and provide financial support to enable",
+      "intent": "no_funder"
+    },
+    {
+      "text": "not possess such private financing. Private funding comes from the Meridional Foundation, whose members are primarily seed multipliers and cooperative",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e for buying wheat from domestic producers, which was financed by the Bank of Brazil. All commercialization of wheat was subject to the rules set by t",
+      "intent": "no_funder"
+    },
+    {
+      "text": "out fewer new employees, but also it can acquire support from the majority of the insured. Regardless of the length and type of the retirement delay, ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "out fewer new employees, but also it can acquire support from the majority of the insured. We must attach importance to the role of human capital inve",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Agriculture, which has benefited from fertilizer subsidies since 2006, accounts for more than one-third of GDP (33.4%) and 90% of export revenues (Chi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ning Acknowledgements Open access for this article was funded by King’s College London. Funding This paper summarises independent research funded by t",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ect to social security taxation. The IABS is provided by the Institute for Employment Research. It contains about 400,000 individuals in each annual c",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The managerial implication of this study is that central and local government can formulate special industrial policies and provide financial assistan",
+      "intent": "no_funder"
+    },
+    {
+      "text": "developed within the project. The authors also acknowledge the WageIndicator Foundation to provide the data used in this paper. The Foundation bears n",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nology firms (Dorsey et al. 2010). Much of the rest came from the federal government (i.e., the NIH), and new drugs often build on upstream government",
+      "intent": "no_funder"
+    },
+    {
+      "text": "y of Sciences cited when it awarded Solow the 1987 Alfred Nobel Memorial Prize in Economic Sciences (Nobelprize.org 2016). Outpatient prescription dru",
+      "intent": "no_funder"
+    },
+    {
+      "text": "proach to banks or any other formal financial institutions. It was the middle class of the society that availed them. Later on they were considered th",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Support for these activities came from the Ministry of Science, Technology, and Innovation and only recently has the Ministry of Education begun to te",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ious services (Hallal et al. 2010), with financial support from the federal government. The researchers in this field at UNIRIO decided to create a re",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ustain the country’s bureaucratic and urban infrastructure. UNIRIO is a public university that receives financial support from the federal government.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " ranking and also qualify for additional funding from various federal and state agencies. The research capacity at UNIRIO can be evaluated by the cour",
+      "intent": "no_funder"
+    },
+    {
+      "text": "s and O’Donnell (1995), Zaidi and Burchardt (2005), Kuklys (2005) and Wood and Grant (2010) for the United Kingdom, Indecon (2004) and Cullinan et al.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " framework and cases, Helsinki, Finland: research project funded by VISION Era-Net. Djellal, F, & Gallouj, F. (2013). The productivity challenge in se",
+      "intent": "no_funder"
+    },
+    {
+      "text": "participating in international knowledge networking. Students funded by Conacyt, many of whom form part of the Mexican diaspora, have developed techno",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ssistance is apt to be low. Your greatest source of support is your family and community, though most often you’ll have to rely on your own devices! S",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tional corporations to have BPO operations in the Philippines. The Philippine government has also provided greater support to the BPO sector than the ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "story. It suffered greatly from the loss of financial support from the Soviet Union, natural disasters and economic mismanagement which led to a massi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Bates and Angeon (2015) criticize both Briguglio and Guillaumont’s measures and offer support to Kraay and Easterly. They point out that being small a",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on or IDRC. Acknowledgments: The authors would like to thank John Agard and Adrian Cashman for their support and critique. We are grateful to Winston ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "His findings are supported by Guillaumont (2009), and Briguglio’s vulnerability index has informed subsequent efforts to improve the resilience of sma",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rent monetary strategies pursued by the Romanian Central Bank. The Hodrick–Prescott ﬁlter was applied to the ﬁrst approach. All of the obtained result",
+      "intent": "no_funder"
+    },
+    {
+      "text": " implications. First, implementing support programs for parents, teachers, and other caregivers that provide alternatives to violent punishment and pr",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Portfolios: Acceleration and Energy Efficiency Sascha Desmettre 1, *, Ralf Korn 1,3 , Javier Alejandro Varela 2, * and Norbert Wehn 2 * Department ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "t. Stat. Data Anal. 2006, 50, 2361–2380. c 2016 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article distributed ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " both years using this statistical data, which were provided by the Japanese government, Kyoto City, and Kyoto Prefecture. The detailed estimations of",
+      "intent": "no_funder"
+    },
+    {
+      "text": " this statistical data, which were provided by the Japanese government, Kyoto City, and Kyoto Prefecture. The detailed estimations of visitor consumpt",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Huang, Carolyn Killea, Jeanie Nguyen, Claire Tan and the Harvard Decision Science Laboratory for excellent support in running the experiments. Open A",
+      "intent": "no_funder"
+    },
+    {
+      "text": "We are very grateful to Rosa Huang, Carolyn Killea, Jeanie Nguyen, Claire Tan and the Harvard Decision Science Laboratory for excellent support in run",
+      "intent": "no_funder"
+    },
+    {
+      "text": "b creation, and many municipalities also use subsidies provided by other ministries. In fact, when they apply this program, municipalities are recomme",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ently heterogeneous in the two models (MN1 and MN2): P4P and assistance by NPP. For each, we identify “inclined” who obtain positive marginal utility ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e to monetary and time constraints. The fund obtained from the Conseil Regional de Bourgogne did not allow for a survey of more than one region. This ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "that initial innovation network characteristics and funding provided by the MSP had significant roles in explaining the decisions of the innovation ne",
+      "intent": "no_funder"
+    },
+    {
+      "text": "trict Provincial NGO Research Scale configuration Funding provided by MSP Types of problems targeted by MSP Model statistics Hosmer and Lemeshow ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ta show that MSP events were highly dependent on the funding provided by MSPs (Table 6). For instance, at least two thirds of the events were fully fu",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nts We gratefully acknowledge the generosity of the Aboriginal and Torres Strait Islander families who participated in the LSIC study, and the Austral",
+      "intent": "no_funder"
+    },
+    {
+      "text": "hed in 2008. This is an initiative of the Africa, Caribbean, and Pacific Secretariat, funded by the European Commission and implemented by UN-Habitat.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "human and financial capacity to fulfill this mission. Therefore, development partners should assist governments in fulfilling this role. Specifically,",
+      "intent": "no_funder"
+    },
+    {
+      "text": "roject was part of a broader financial sector reform supported by the World Bank. It has benefited during its different stages from specific technical",
+      "intent": "no_funder"
+    },
+    {
+      "text": " the dominant political economic environment. Just after independence, the state played a critical role in socioeconomic development and gave strong f",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on units. The IUHDP was launched in 2005 as a pilot program, supported by GIZ, to build 5000 housing units annually in Addis Ababa. In 2006, the progr",
+      "intent": "no_funder"
+    },
+    {
+      "text": " different stages from specific technical assistance funded by the First Initiative trust fund. This technical assistance allowed the mobilizing of hi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "market for foreign exchange and support the policy choice of the State Bank of Vietnam not to follow black market signals in managing official exchang",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ing (16-IT) of South Korea. Finally, we sincerely appreciate Professor Harry W. Richardson for his intellectual support on hurricane information used ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ty in London is supported by a network of well-established venture capitalists and investors. Since 2010, tech-based start-ups in London have collecti",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rests with the financial investments under the shelter of the Austin Chamber of Commerce and several businesses and community leaders. The Smart Growt",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tatistics on Credit to the Private Sector provided by the Bank for International Settlements. The data reveal that access to finance was, indeed, amon",
+      "intent": "no_funder"
+    },
+    {
+      "text": "onditions of firms indirectly; for example via the funding situation of lenders. In order to evaluate the effects of cross-border For a detailed over",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ear youth unemployment study in 10-European nations funded by the European Commission and aim to present a cohesive policy solution to curb high youth",
+      "intent": "no_funder"
+    },
+    {
+      "text": "authors. The authors gratefully acknowledge the contributions of Anonymous Referee #1 regarding this point. Additional files Additional file 1: Data F",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ee quarters of new or nascent entrepreneurs rely primarily on their families and friends for startup funding (Kew et al., GEM India Report 2013). The ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Langton, N. (1998). Passing on privilege: Resources provided by self-employed parents to their self-employed children. Research in Social Stratificat",
+      "intent": "no_funder"
+    },
+    {
+      "text": "unctions. Econ. Theory 1996, 7, 283–290. c 2016 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article distributed ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rbeke W, Kalvet T, Chesbrough H. Policies for Open Innovation: Theory, Framework and Cases, Research project funded by VISION Era-Net, Helsinki, 2008.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ical and innovation policies, conducts R&D, provides financial support to R&D, and fosters human resource development, technological dissemination, an",
+      "intent": "no_funder"
+    },
+    {
+      "text": "piter, on the Alban Mount. However, the league was reformed by the Treaty of Cassius on 493 BC, which was outwardly a treaty of equality and reciproci",
+      "intent": "no_funder"
+    },
+    {
+      "text": "l file 1: Appendices. (PDF 587 kb) Acknowledgement The authors wish to acknowledge the contribution of the Workers Compensation Board of Nova Scotia.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "owards all partner institutions within the program as well as the European Commission for their support. Appendix A Assumptions for power generation ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Jesús Fernández-Huertas Moraga received financial support from the ECO2012-39412 project funded by the Spanish Ministry for Economics and Competitiven",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ted by the comments of the reviewers. We are kindly thanking the University of Tahran for his support of this paper. Funding This study is partly fund",
+      "intent": "no_funder"
+    },
+    {
+      "text": "accountants-consultants. We explored the role of entrepreneurial relational degree and social capital in providing financial support to Tunisian fundi",
+      "intent": "no_funder"
+    },
+    {
+      "text": "dustrial research and development: (A) \u0007Applied Research Fund was founded in 1968 to provide low-interest grant and credits for research institutions.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " for participating in the study. Additionally support was given by various reviewers that helped in improving the completeness as well as readability ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nowledgments The authors would like to sincerely thank all the healthcare professionals working in the Spinal Surgery Unit of the hospital involved in",
+      "intent": "no_funder"
+    },
+    {
+      "text": "eeded an in depth analysis. The HTA approach developed, supported by the MCDA methodology showed weaknesses and strengths, useful for both scholars an",
+      "intent": "no_funder"
+    },
+    {
+      "text": "3 on battery life is a prerequisite for financial support from UK government agencies. Indeed, warranty is by definition related to the design life o",
+      "intent": "no_funder"
+    },
+    {
+      "text": "novations and prepare them for initiation in the market, (d) competent venture financiers who recognise and finance the entrepreneurs, (e) exit market",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n man aus dem Dialog mit den Nachbardisziplinen viel lernen – und diesen selbst auch bereichern. Funding Open Access funding provided by Projekt DEAL.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "iability. Acknowledgements We acknowledge the management of university of calabar, Nigeria, and the south western university for their various roles i",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ss of the order played (ps < 0.01). Support for this result comes from Figure 1, where we evaluatehow howmuch muchparticipants participantscooperate c",
+      "intent": "no_funder"
+    },
+    {
+      "text": "approved the final manuscript. Acknowledgment We would like to thank Dr. Duy Vu Le for his editorial support in preparation of this paper. Financial &",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The SHARE data collection has been primarily funded by the European Commission through the 5th Framework Programme (Project QLK6-CT-2001-00360 in the ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "We thank Dr. Eduwin Pakpahan for his contributions to the early stages of data preparation and analysis. Funding This work was supported by a Starting",
+      "intent": "no_funder"
+    },
+    {
+      "text": "S variable used. Acknowledgements Open access funding provided by Max Planck Society. This paper uses data from SHARE wave 4 release 1.1.1, as of Marc",
+      "intent": "no_funder"
+    },
+    {
+      "text": "es and a potentially emergent transformation. The United States Agency for International Development (USAID)-funded Project Croissance Economique (PCE",
+      "intent": "no_funder"
+    },
+    {
+      "text": "centers. In all of these actions leadership and support from the government of Senegal played a critical role. The critical policy question here is ho",
+      "intent": "no_funder"
+    },
+    {
+      "text": "r since. Ultimately, several crisis-ridden countries needed financial assistance and had to accept strong conditions by their international creditors.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nt still to be developed and which still depends on the support by Northern partners. These semantic structures appear in 20% of the documents and 40%",
+      "intent": "no_funder"
+    },
+    {
+      "text": "to the conventional counterpart. Similar results are supported by Benson and Humphrey (2008), who show that SRI fund flows are less sensitive to finan",
+      "intent": "no_funder"
+    },
+    {
+      "text": "g determinants in any investment choice. This is also supported by Jansson and Biel (2011b) who suggest that private investors are influenced by belie",
+      "intent": "no_funder"
+    },
+    {
+      "text": "This view that there is marked overcapacity is supported by Fintrac (2008) who estimate that Malawi’s two largest dairy plants, Dairibord Malawi and L",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Bvumbwe received a loan of around US$12,000. JICA helped dairy farmers in Bvumbwe who had a milk bulking group to form a cooperative. It also procured",
+      "intent": "no_funder"
+    },
+    {
+      "text": "nancial support from organizations like Land O’Lakes and the Small Scale Livestock Promotion Programme (SSLPP) in selected milk bulking groups, who as",
+      "intent": "no_funder"
+    },
+    {
+      "text": "mily” launched in April 2013 and was supported by donors such as Heifer International, the massive increase in production and in yields in 2013 is far",
+      "intent": "no_funder"
+    },
+    {
+      "text": "According to Imani Development Consultants (2004), donor support has assisted the Government in the goal of meeting its stated objectives of developme",
+      "intent": "no_funder"
+    },
+    {
+      "text": "the Shire Highland Milk Producers Association and; the work supported by FICA. Table 2 Consumer’s expenditure and Marshallian own price elasticities f",
+      "intent": "no_funder"
+    },
+    {
+      "text": "he tag of “Strengthening the formal dairy sector” (as exemplified by the USAID support through the work undertaken by Land O’Lakes) while the second s",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n of health care providers [19, 34]. The TB services are budgeted by the treasury and operated through the MoH. In the ambulatory sector, primary heal",
+      "intent": "no_funder"
+    },
+    {
+      "text": "uprecht-Karls-Universität Heidelberg within the funding program Open Access Publishing. Funding The Article Processing Charges for this paper were fun",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Permission to conduct the study was granted by the MSF desk in Berlin and the MSF mission in Uzbekistan. Potential study participants were contacted w",
+      "intent": "no_funder"
+    },
+    {
+      "text": " Lee, M. S., & Suh, D. C. (2004). Who done it? Attributions by entrepreneurs and experts of the factors that cause and impede small business success. ",
+      "intent": "no_funder"
+    },
+    {
+      "text": " AfD-Abgeordneten entfallen auf die CDU. An zweiter Stelle liegt die FDP (12,2 %). Funding. Open Access funding provided by Projekt DEAL. Open Access.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "he free software Frontier version 4.1, which was kindly provided by Professor Coelli (1996), can be used to estimate Eqs. (5) and (6). The TFEE of reg",
+      "intent": "no_funder"
+    },
+    {
+      "text": " of Environmental and Resource, held in Taipei, Taiwan, from 5 to 7 August 2015. The first author was supported by JSPS KAKENHI Grant Number 16K03662.",
+      "intent": "no_funder"
+    },
+    {
+      "text": " privileged youth are largely structurally determined these youth require little agency to succeed or that they rely on their parents to support them.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "on may be avoided. 2.2. Probability Model Let supp X denote the support of X. Assumption 3. Parametric Densities. (i) Let Θ be a compact and non-empty",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Special thanks to Professor Yahaya Yusuf, University of Central Lancashir, for his academic support. This research was financially supported by the De",
+      "intent": "no_funder"
+    },
+    {
+      "text": "sons involved in the topic of lymphoedema such as stakeholders at the World Bank who provide money for lymphoedema research and education Leading cou",
+      "intent": "no_funder"
+    },
+    {
+      "text": " World Health Organization Acknowledgements We would like to thank David Beverungen for his support in technical issues. Funding This work was support",
+      "intent": "no_funder"
+    },
+    {
+      "text": " financial support from the Grants-in-Aid for Scientific Research (Nos. 22530238 and 25380320) and Aoyama Gakuin University. The funding source had no",
+      "intent": "no_funder"
+    },
+    {
+      "text": "es are willing to work hard to express their appreciation of the generosity of their employers, who offer a higher wage than the market-clearing wage.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "n-Aid for Scientific Research (Nos. 22530238 and 25380320) and Aoyama Gakuin University. The funding source had no involvement in the study design, an",
+      "intent": "no_funder"
+    },
+    {
+      "text": "We acknowledge the excellent research assistance of Yun Liang and important help from Isabelle Sin, as well as useful feedback from multiple anonymous",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ban areas and supported by the China National Bureau of Statistics (NBS) and the Institute for the Study of Labor (IZA). The CHIP survey covered nine ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "The authors are also grateful to Professor Marcelo Bergolo and Manuel Paradis for the technical support and guidance, as well as to Professor Luca Tib",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Furthermore, the use of a short-term stay service funded by the LTCI has demonstrated positive effects on the well-being of family caregivers. This se",
+      "intent": "no_funder"
+    },
+    {
+      "text": "proaches can be combined with more adequate support strategies for family caregivers [3]. Colombo et al. suggested that supporting family caregivers i",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e initially informal entities based in programmes funded under the European CSF III (2000–2006), and formalised as parts of the structure of the Highe",
+      "intent": "no_funder"
+    },
+    {
+      "text": " that directly supported KT activities. The approved financing from the NEOTEC programme focused on fostering technology-based entrepreneurship and en",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ic healthcare demand for both children and adults, which is supported by [20]. As opposed to [11], both the treatment and control groups will be subse",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ents contributing to the achievement of this objective. The Agricultural Development Institute (ADI) has continually provided technical support to the",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ip with an illustration that positioned monetary chips on the participant’s side of the table (giving), the partner’s side of the table (taking), or t",
+      "intent": "no_funder"
+    },
+    {
+      "text": "he HEXACO model, there was a broad association between honesty-humility and greater allocations of money across both frames, providing support for H3.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ty of Melbourne. K.Z. was supported by an Australian Postgraduate Award and an Endeavour Research Fellowship. Conflicts of Interest: The authors decla",
+      "intent": "no_funder"
+    },
+    {
+      "text": "not believable or practical; (3) the program should be financed by the polluters; and (4) the government administrators are not able to solve the prob",
+      "intent": "no_funder"
+    },
+    {
+      "text": "r cleaner air. Acknowledgements Authors acknowledge assistance from Laura González in designing, organizing and implementing the protocol to gather d",
+      "intent": "no_funder"
+    },
+    {
+      "text": "owledge the helpful suggestions of C. Richard Shumway, Gregmar Galinato, Jonathan Yoder, Jude Bayham, Jeff Luckstead, participants of the 2013 WEAI An",
+      "intent": "no_funder"
+    },
+    {
+      "text": "ween Israel and the Palestinians. With the support of a number of private foundations, we were able, on several occasions, to gather together in Pitts",
+      "intent": "no_funder"
+    },
+    {
+      "text": "Historically funded deals: Number of deals historically funded by each VC firm. Early-Stage Focus Indicator variable that takes value 1 if the VC firm",
+      "intent": "no_funder"
+    },
+    {
+      "text": "bond, i.e., dY (t) = 0, then the optimal mortgage is entirely funded by an FRM if the investor at the same time is infinitely risk averse and without ",
+      "intent": "no_funder"
+    },
+    {
+      "text": "03. It is seen how the optimal payments are almost entirely funded by the FRM. The only thing making the payments non-constant and creating funding in",
+      "intent": "no_funder"
+    },
+    {
+      "text": "First, this research highlights the importance of government to continuously provide support, particularly training and awareness on how SMEs should a",
+      "intent": "no_funder"
+    },
+    {
+      "text": "tedly low considering the various incentives and grants provided by the government to promote the uptake of E-Commerce by SMEs. Research shows that th",
+      "intent": "no_funder"
+    },
+    {
+      "text": "HE) for the financial funding of this research through the Fundamental Research Grant Scheme (FRGS). Funding Malaysian Ministry of Higher Education (M",
+      "intent": "no_funder"
+    },
+    {
+      "text": "chain performance in Malawi and Mozambique using data collected from a market study commissioned by the International Centre for Tropical Agriculture.",
+      "intent": "no_funder"
+    },
+    {
+      "text": "as well. Moreover, they can Figure 1. Types of perceived job security. L. HIPP ﬁnancially support workers in case of job loss and help them to quick",
+      "intent": "no_funder"
+    },
+    {
+      "text": "lovak Republic. Our acknowledgments also belong to the Ministry of Health of the Slovak Republic for its cooperation in creation of the new conception",
+      "intent": "no_funder"
+    },
+    {
+      "text": "eﬁted from EU accession (e.g. capital and labour ﬂows, trade integration, EU funding, institutional development, etc.) and agreements with other insti",
+      "intent": "no_funder"
+    },
+    {
+      "text": "We believe research funded with public money should be freely available to the public. The open code, open data and open science movements are only sl",
+      "intent": "no_funder"
+    },
+    {
+      "text": "rch, we believe that the methods and results from research funded by public money should be openly available to the public. Acknowledgements Stefan Pf",
+      "intent": "no_funder"
+    },
+    {
+      "text": " would like to gratefully acknowledge the support from Eric Armstrong, Chris Hall and Ian Davies at Marine Scotland. Conflicts of interest None. Refer",
+      "intent": "no_funder"
+    },
+    {
+      "text": "us, only training activities, which were (at least partly) funded by the employer in terms of investments of time and/or money, are taken into account",
+      "intent": "no_funder"
+    },
+    {
+      "text": "e same time to receive decentralised financial resources from the Ministry of Finance for small local initiatives, for which the prioritization criter",
+      "intent": "no_funder"
+    },
+    {
+      "text": "atch of state and federal funds from the Rehabilitation Services Administration in the US Department of Education, are responsible for helping people ",
+      "intent": "no_funder"
+    }
+  ]
+}

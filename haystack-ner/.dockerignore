@@ -1,0 +1,11 @@
+# By default, ignore everything
+*
+# Add exception for the directories you actually want to include in the context
+#!project-source-code
+#!project-config-dir
+# source files
+#!*.py
+#!*.sh
+!python/environment.yml
+!python/environment.yaml
+!miniconda-installer/*

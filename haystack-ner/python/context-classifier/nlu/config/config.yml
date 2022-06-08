@@ -1,0 +1,2 @@
+TRAIN_FILEPATH: training_data/dataset.json
+MODEL_FILEPATH: models/model.mdl

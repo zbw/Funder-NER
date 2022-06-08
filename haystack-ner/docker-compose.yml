@@ -1,0 +1,57 @@
+version: '3'
+services:
+  haystack-elastic-n0:
+    image: elasticsearch:7.9.2
+    container_name: haystack-elastic-n0
+    environment:
+      - discovery.type=single-node
+      - cluster.name=haystackdprelastic
+      - node.name=haystack-dpr-elastic-n0
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms6048m -Xmx6048m"
+    #user: "${UID:-1000}:0"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - node0:/usr/share/elasticsearch/data
+    # ports:
+    #  - 9200:9200
+    networks:
+      haystacknet:
+        aliases:
+          - elastic
+
+  python-haystack:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        USER_ID: ${USER_ID:-1011}
+        GROUP_ID: ${GROUP_ID:-1011}
+    image: python-haystack
+    container_name: python-haystack
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - capabilities: [gpu]
+    depends_on:
+      - haystack-elastic-n0
+    networks:
+      - haystacknet
+    volumes:
+      - ./textdocuments:/home/funder/python/textdocuments
+      - ./results:/home/funder/python/results
+      - ./python:/home/funder/python/run
+      - cache:/home/funder/.cache
+
+networks:
+  haystacknet:
+    external: false
+
+
+volumes:
+  node0:
+  cache:
